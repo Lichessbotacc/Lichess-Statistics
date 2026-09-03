@@ -235,9 +235,6 @@ def swiss_matches_perf_type(row: dict) -> bool:
 
 
 EXTRA_TEAM_IDS = [
-     "darkonblitz-dob",
-     "darkonteams",
-     "--elite-chess-players-union--"
 ]
 
 SINCE_DAYS = 7
