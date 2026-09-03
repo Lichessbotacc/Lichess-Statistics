@@ -26,7 +26,16 @@
     "david_muntyan": 1,
     "deyanarmr": 18,
     "edu_1973": 487,
-    "efid_chess": 1230
+    "efid_chess": 1230,
+    "egorpro777": 324,
+    "elrayollorante": 194,
+    "erik101": 18,
+    "filippos1729": 262,
+    "fluxxitbeast": 163,
+    "fr3aky": 16,
+    "gameofhappiness": 92,
+    "ghodkin": 295,
+    "giannistst12": 180
   },
   "last_checked": {
     "aasedoy": "2026-09-03T13:32:18.278454+00:00",
@@ -55,7 +64,16 @@
     "david_muntyan": "2026-09-03T13:39:56.317278+00:00",
     "deyanarmr": "2026-09-03T13:40:02.698922+00:00",
     "edu_1973": "2026-09-03T13:41:40.189705+00:00",
-    "efid_chess": "2026-09-03T13:45:46.268616+00:00"
+    "efid_chess": "2026-09-03T13:45:46.268616+00:00",
+    "egorpro777": "2026-09-03T13:46:53.290919+00:00",
+    "elrayollorante": "2026-09-03T13:47:32.168452+00:00",
+    "erik101": "2026-09-03T13:47:35.901026+00:00",
+    "filippos1729": "2026-09-03T13:48:28.380451+00:00",
+    "fluxxitbeast": "2026-09-03T13:49:01.060907+00:00",
+    "fr3aky": "2026-09-03T13:49:04.339001+00:00",
+    "gameofhappiness": "2026-09-03T13:49:22.830554+00:00",
+    "ghodkin": "2026-09-03T13:50:21.910768+00:00",
+    "giannistst12": "2026-09-03T13:50:57.989034+00:00"
   },
   "ranking": [
     {
@@ -83,33 +101,81 @@
       "username": "edu_1973"
     },
     {
+      "games": 324,
+      "profile": "https://lichess.org/@/egorpro777",
+      "rank": 4,
+      "rating": 1775,
+      "source": "Turnier",
+      "username": "egorpro777"
+    },
+    {
+      "games": 295,
+      "profile": "https://lichess.org/@/ghodkin",
+      "rank": 5,
+      "rating": 1177,
+      "source": "Turnier",
+      "username": "ghodkin"
+    },
+    {
       "games": 293,
       "profile": "https://lichess.org/@/carokannlover1",
-      "rank": 4,
+      "rank": 6,
       "rating": 1797,
       "source": "Turnier",
       "username": "carokannlover1"
     },
     {
+      "games": 262,
+      "profile": "https://lichess.org/@/filippos1729",
+      "rank": 7,
+      "rating": 1709,
+      "source": "Turnier",
+      "username": "filippos1729"
+    },
+    {
       "games": 249,
       "profile": "https://lichess.org/@/barbodking1393",
-      "rank": 5,
+      "rank": 8,
       "rating": 1849,
       "source": "Turnier",
       "username": "barbodking1393"
     },
     {
+      "games": 194,
+      "profile": "https://lichess.org/@/elrayollorante",
+      "rank": 9,
+      "rating": 2156,
+      "source": "Turnier",
+      "username": "elrayollorante"
+    },
+    {
+      "games": 180,
+      "profile": "https://lichess.org/@/giannistst12",
+      "rank": 10,
+      "rating": 2172,
+      "source": "Turnier",
+      "username": "giannistst12"
+    },
+    {
       "games": 168,
       "profile": "https://lichess.org/@/aasedoy",
-      "rank": 6,
+      "rank": 11,
       "rating": 1752,
       "source": "Turnier",
       "username": "aasedoy"
     },
     {
+      "games": 163,
+      "profile": "https://lichess.org/@/fluxxitbeast",
+      "rank": 12,
+      "rating": 1963,
+      "source": "Turnier",
+      "username": "fluxxitbeast"
+    },
+    {
       "games": 137,
       "profile": "https://lichess.org/@/danish_chess_yt",
-      "rank": 7,
+      "rank": 13,
       "rating": 1936,
       "source": "Turnier",
       "username": "danish_chess_yt"
@@ -117,7 +183,7 @@
     {
       "games": 133,
       "profile": "https://lichess.org/@/chillingpanda3",
-      "rank": 8,
+      "rank": 14,
       "rating": 1716,
       "source": "Turnier",
       "username": "chillingpanda3"
@@ -125,15 +191,23 @@
     {
       "games": 127,
       "profile": "https://lichess.org/@/chess_master9998",
-      "rank": 9,
+      "rank": 15,
       "rating": 1867,
       "source": "Turnier",
       "username": "chess_master9998"
     },
     {
+      "games": 92,
+      "profile": "https://lichess.org/@/gameofhappiness",
+      "rank": 16,
+      "rating": 1695,
+      "source": "Turnier",
+      "username": "gameofhappiness"
+    },
+    {
       "games": 83,
       "profile": "https://lichess.org/@/atheindrra",
-      "rank": 10,
+      "rank": 17,
       "rating": 1760,
       "source": "Turnier",
       "username": "atheindrra"
@@ -141,7 +215,7 @@
     {
       "games": 58,
       "profile": "https://lichess.org/@/cb_renit",
-      "rank": 11,
+      "rank": 18,
       "rating": 1302,
       "source": "Turnier",
       "username": "cb_renit"
@@ -149,7 +223,7 @@
     {
       "games": 30,
       "profile": "https://lichess.org/@/blastermaster4",
-      "rank": 12,
+      "rank": 19,
       "rating": 1022,
       "source": "Turnier",
       "username": "blastermaster4"
@@ -157,7 +231,7 @@
     {
       "games": 30,
       "profile": "https://lichess.org/@/blazingdragon_05",
-      "rank": 13,
+      "rank": 20,
       "rating": 1908,
       "source": "Turnier",
       "username": "blazingdragon_05"
@@ -165,7 +239,7 @@
     {
       "games": 23,
       "profile": "https://lichess.org/@/chinahuang",
-      "rank": 14,
+      "rank": 21,
       "rating": 1434,
       "source": "Turnier",
       "username": "chinahuang"
@@ -173,7 +247,7 @@
     {
       "games": 19,
       "profile": "https://lichess.org/@/brand_puma",
-      "rank": 15,
+      "rank": 22,
       "rating": 1221,
       "source": "Turnier",
       "username": "brand_puma"
@@ -181,15 +255,31 @@
     {
       "games": 18,
       "profile": "https://lichess.org/@/deyanarmr",
-      "rank": 16,
+      "rank": 23,
       "rating": 1248,
       "source": "Turnier",
       "username": "deyanarmr"
     },
     {
+      "games": 18,
+      "profile": "https://lichess.org/@/erik101",
+      "rank": 24,
+      "rating": 1749,
+      "source": "Turnier",
+      "username": "erik101"
+    },
+    {
+      "games": 16,
+      "profile": "https://lichess.org/@/fr3aky",
+      "rank": 25,
+      "rating": 2067,
+      "source": "Turnier",
+      "username": "fr3aky"
+    },
+    {
       "games": 15,
       "profile": "https://lichess.org/@/amol0584",
-      "rank": 17,
+      "rank": 26,
       "rating": 1094,
       "source": "Turnier",
       "username": "amol0584"
@@ -197,7 +287,7 @@
     {
       "games": 15,
       "profile": "https://lichess.org/@/dark_emporer66",
-      "rank": 18,
+      "rank": 27,
       "rating": 1745,
       "source": "Turnier",
       "username": "dark_emporer66"
@@ -205,7 +295,7 @@
     {
       "games": 13,
       "profile": "https://lichess.org/@/adam-arm",
-      "rank": 19,
+      "rank": 28,
       "rating": 1917,
       "source": "Turnier",
       "username": "adam-arm"
@@ -213,7 +303,7 @@
     {
       "games": 11,
       "profile": "https://lichess.org/@/cardiff467",
-      "rank": 20,
+      "rank": 29,
       "rating": 1225,
       "source": "Turnier",
       "username": "cardiff467"
@@ -221,7 +311,7 @@
     {
       "games": 10,
       "profile": "https://lichess.org/@/achilles_369",
-      "rank": 21,
+      "rank": 30,
       "rating": 961,
       "source": "Turnier",
       "username": "achilles_369"
@@ -229,7 +319,7 @@
     {
       "games": 10,
       "profile": "https://lichess.org/@/bobby_tal44",
-      "rank": 22,
+      "rank": 31,
       "rating": 1573,
       "source": "Turnier",
       "username": "bobby_tal44"
@@ -237,7 +327,7 @@
     {
       "games": 6,
       "profile": "https://lichess.org/@/aimbot2500",
-      "rank": 23,
+      "rank": 32,
       "rating": 1804,
       "source": "Turnier",
       "username": "aimbot2500"
@@ -245,7 +335,7 @@
     {
       "games": 4,
       "profile": "https://lichess.org/@/arjun0813",
-      "rank": 24,
+      "rank": 33,
       "rating": 1200,
       "source": "Turnier",
       "username": "arjun0813"
@@ -253,7 +343,7 @@
     {
       "games": 2,
       "profile": "https://lichess.org/@/chaktic_gaming",
-      "rank": 25,
+      "rank": 34,
       "rating": 1754,
       "source": "Turnier",
       "username": "chaktic_gaming"
@@ -261,7 +351,7 @@
     {
       "games": 1,
       "profile": "https://lichess.org/@/david_muntyan",
-      "rank": 26,
+      "rank": 35,
       "rating": 1485,
       "source": "Turnier",
       "username": "david_muntyan"
@@ -269,11 +359,11 @@
     {
       "games": 0,
       "profile": "https://lichess.org/@/alejandro-gartodel",
-      "rank": 27,
+      "rank": 36,
       "rating": 1124,
       "source": "Turnier",
       "username": "alejandro-gartodel"
     }
   ],
-  "updated_at": "2026-09-03T13:45:46.268696+00:00"
+  "updated_at": "2026-09-03T13:50:57.989185+00:00"
 }
