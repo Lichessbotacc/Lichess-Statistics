@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:24:32.625359+00:00",
+  "updated_at": "2026-09-04T23:29:56.165479+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -100,6 +100,14 @@
     },
     {
       "rank": 13,
+      "username": "domarovskiyvb1984",
+      "games": 738,
+      "rating": 2185,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/domarovskiyvb1984"
+    },
+    {
+      "rank": 14,
       "username": "jclb",
       "games": 715,
       "rating": 1625,
@@ -107,7 +115,7 @@
       "profile": "https://lichess.org/@/jclb"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "username": "lion6000us",
       "games": 701,
       "rating": 2255,
@@ -115,7 +123,7 @@
       "profile": "https://lichess.org/@/lion6000us"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "username": "fakerama",
       "games": 700,
       "rating": 1658,
@@ -123,20 +131,12 @@
       "profile": "https://lichess.org/@/fakerama"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "username": "garry1304",
       "games": 696,
       "rating": 1952,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/garry1304"
-    },
-    {
-      "rank": 17,
-      "username": "domarovskiyvb1984",
-      "games": 668,
-      "rating": 2185,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/domarovskiyvb1984"
     },
     {
       "rank": 18,
@@ -7964,6 +7964,14 @@
     },
     {
       "rank": 996,
+      "username": "dragkiller",
+      "games": 212,
+      "rating": 2265,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/dragkiller"
+    },
+    {
+      "rank": 997,
       "username": "eduardcnemocon",
       "games": 212,
       "rating": 2273,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/eduardcnemocon"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "elsidfarok",
       "games": 212,
       "rating": 1238,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/elsidfarok"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "graymayster",
       "games": 212,
       "rating": 2019,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/graymayster"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "gssah",
       "games": 212,
       "rating": 1639,
       "source": "Turnier",
       "profile": "https://lichess.org/@/gssah"
-    },
-    {
-      "rank": 1000,
-      "username": "hananiah",
-      "games": 212,
-      "rating": 1786,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/hananiah"
     }
   ]
 }
