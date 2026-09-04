@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:33:27.639979+00:00",
+  "updated_at": "2026-09-04T21:38:29.387619+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -196,14 +196,6 @@
     },
     {
       "rank": 25,
-      "username": "rainerzufal",
-      "games": 987,
-      "rating": 2015,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/rainerzufal"
-    },
-    {
-      "rank": 26,
       "username": "hihellohey",
       "games": 960,
       "rating": 1764,
@@ -211,12 +203,20 @@
       "profile": "https://lichess.org/@/hihellohey"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "username": "aditya-beast",
       "games": 959,
       "rating": 2242,
       "source": "Turnier",
       "profile": "https://lichess.org/@/aditya-beast"
+    },
+    {
+      "rank": 27,
+      "username": "rainerzufal",
+      "games": 921,
+      "rating": 2015,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/rainerzufal"
     },
     {
       "rank": 28,
@@ -604,14 +604,6 @@
     },
     {
       "rank": 76,
-      "username": "anshr_ict",
-      "games": 605,
-      "rating": 1746,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/anshr_ict"
-    },
-    {
-      "rank": 77,
       "username": "kemalisturk",
       "games": 605,
       "rating": 1951,
@@ -619,7 +611,7 @@
       "profile": "https://lichess.org/@/kemalisturk"
     },
     {
-      "rank": 78,
+      "rank": 77,
       "username": "fantom2234",
       "games": 603,
       "rating": 2106,
@@ -627,7 +619,7 @@
       "profile": "https://lichess.org/@/fantom2234"
     },
     {
-      "rank": 79,
+      "rank": 78,
       "username": "mgneph010",
       "games": 600,
       "rating": 1481,
@@ -635,7 +627,7 @@
       "profile": "https://lichess.org/@/mgneph010"
     },
     {
-      "rank": 80,
+      "rank": 79,
       "username": "eezer",
       "games": 598,
       "rating": 1883,
@@ -643,12 +635,20 @@
       "profile": "https://lichess.org/@/eezer"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "username": "playerinho",
       "games": 596,
       "rating": 1908,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/playerinho"
+    },
+    {
+      "rank": 81,
+      "username": "anshr_ict",
+      "games": 595,
+      "rating": 1746,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/anshr_ict"
     },
     {
       "rank": 82,
