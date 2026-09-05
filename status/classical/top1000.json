@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:51:48.188875+00:00",
+  "updated_at": "2026-09-05T16:56:48.409583+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,14 +7980,6 @@
     },
     {
       "rank": 998,
-      "username": "trrak55",
-      "games": 36,
-      "rating": 2173,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/trrak55"
-    },
-    {
-      "rank": 999,
       "username": "tunga0909",
       "games": 36,
       "rating": 1615,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/tunga0909"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "welroldan",
       "games": 36,
       "rating": 1631,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/welroldan"
+    },
+    {
+      "rank": 1000,
+      "username": "wikt",
+      "games": 36,
+      "rating": 1607,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/wikt"
     }
   ]
 }
