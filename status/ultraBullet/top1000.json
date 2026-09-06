@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T06:08:42.231546+00:00",
+  "updated_at": "2026-09-06T06:13:43.440502+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -76,14 +76,6 @@
     },
     {
       "rank": 10,
-      "username": "clipkin3",
-      "games": 1330,
-      "rating": 2216,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/clipkin3"
-    },
-    {
-      "rank": 11,
       "username": "leeuw7",
       "games": 1270,
       "rating": 1428,
@@ -91,7 +83,7 @@
       "profile": "https://lichess.org/@/leeuw7"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "monkeyretta",
       "games": 1230,
       "rating": 2114,
@@ -99,12 +91,20 @@
       "profile": "https://lichess.org/@/monkeyretta"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "username": "efid_chess",
       "games": 1209,
       "rating": 1675,
       "source": "Turnier",
       "profile": "https://lichess.org/@/efid_chess"
+    },
+    {
+      "rank": 13,
+      "username": "clipkin3",
+      "games": 1186,
+      "rating": 2216,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/clipkin3"
     },
     {
       "rank": 14,
@@ -3708,6 +3708,14 @@
     },
     {
       "rank": 464,
+      "username": "kolv",
+      "games": 191,
+      "rating": 2009,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/kolv"
+    },
+    {
+      "rank": 465,
       "username": "derekc1",
       "games": 190,
       "rating": 2051,
@@ -3715,7 +3723,7 @@
       "profile": "https://lichess.org/@/derekc1"
     },
     {
-      "rank": 465,
+      "rank": 466,
       "username": "bluelightmira",
       "games": 189,
       "rating": 1223,
@@ -3723,7 +3731,7 @@
       "profile": "https://lichess.org/@/bluelightmira"
     },
     {
-      "rank": 466,
+      "rank": 467,
       "username": "lucientupin",
       "games": 189,
       "rating": 1967,
@@ -3731,7 +3739,7 @@
       "profile": "https://lichess.org/@/lucientupin"
     },
     {
-      "rank": 467,
+      "rank": 468,
       "username": "p9o",
       "games": 189,
       "rating": 1580,
@@ -3739,7 +3747,7 @@
       "profile": "https://lichess.org/@/p9o"
     },
     {
-      "rank": 468,
+      "rank": 469,
       "username": "bersek_kingofmcff",
       "games": 188,
       "rating": 1915,
@@ -3747,7 +3755,7 @@
       "profile": "https://lichess.org/@/bersek_kingofmcff"
     },
     {
-      "rank": 469,
+      "rank": 470,
       "username": "romero_jossie",
       "games": 188,
       "rating": 1734,
@@ -3755,20 +3763,12 @@
       "profile": "https://lichess.org/@/romero_jossie"
     },
     {
-      "rank": 470,
+      "rank": 471,
       "username": "rubengtz",
       "games": 188,
       "rating": 2055,
       "source": "Turnier",
       "profile": "https://lichess.org/@/rubengtz"
-    },
-    {
-      "rank": 471,
-      "username": "kolv",
-      "games": 187,
-      "rating": 2009,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/kolv"
     },
     {
       "rank": 472,
