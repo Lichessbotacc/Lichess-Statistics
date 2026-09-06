@@ -5556,7 +5556,7 @@
     "julkiboy": 621,
     "julloa13": 217,
     "julo0607": 28,
-    "julymor": 1747,
+    "julymor": 1718,
     "jumanjiy": 133,
     "jumerly": 20,
     "jumper200016": 117,
@@ -17608,7 +17608,7 @@
     "julkiboy": "2026-09-04T16:33:32.105257+00:00",
     "julloa13": "2026-09-05T14:29:30.756714+00:00",
     "julo0607": "2026-09-04T14:18:58.502039+00:00",
-    "julymor": "2026-09-06T01:30:25.304358+00:00",
+    "julymor": "2026-09-06T20:23:57.908509+00:00",
     "jumanjiy": "2026-09-05T20:17:42.672954+00:00",
     "jumerly": "2026-09-06T07:19:23.462034+00:00",
     "jumper200016": "2026-09-05T20:17:47.733177+00:00",
@@ -24145,20 +24145,20 @@
       "username": "thor_1han"
     },
     {
-      "games": 1747,
-      "profile": "https://lichess.org/@/julymor",
-      "rank": 6,
-      "rating": 1801,
-      "source": "Turnier",
-      "username": "julymor"
-    },
-    {
       "games": 1730,
       "profile": "https://lichess.org/@/vvd62",
-      "rank": 7,
+      "rank": 6,
       "rating": 2302,
       "source": "Lobby-Crawl",
       "username": "vvd62"
+    },
+    {
+      "games": 1718,
+      "profile": "https://lichess.org/@/julymor",
+      "rank": 7,
+      "rating": 1801,
+      "source": "Turnier",
+      "username": "julymor"
     },
     {
       "games": 1515,
@@ -120505,5 +120505,5 @@
       "username": "yyyheisenbergyyy"
     }
   ],
-  "updated_at": "2026-09-06T20:18:07.144645+00:00"
+  "updated_at": "2026-09-06T20:23:57.912210+00:00"
 }
