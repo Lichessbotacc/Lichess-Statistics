@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T20:02:32.437903+00:00",
+  "updated_at": "2026-09-06T20:07:40.277471+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "i_b_k",
+      "games": 378,
+      "rating": 1672,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/i_b_k"
+    },
+    {
+      "rank": 999,
       "username": "alexander555",
       "games": 377,
       "rating": 1830,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/alexander555"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "jizpig",
       "games": 376,
       "rating": 1418,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/jizpig"
-    },
-    {
-      "rank": 1000,
-      "username": "muhau",
-      "games": 376,
-      "rating": 1886,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/muhau"
     }
   ]
 }
