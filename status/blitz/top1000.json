@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:29:45.707994+00:00",
+  "updated_at": "2026-09-07T08:35:38.497933+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -92,19 +92,19 @@
     },
     {
       "rank": 12,
+      "username": "domarovskiyvb1984",
+      "games": 823,
+      "rating": 2185,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/domarovskiyvb1984"
+    },
+    {
+      "rank": 13,
       "username": "jotha7480",
       "games": 818,
       "rating": 2050,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/jotha7480"
-    },
-    {
-      "rank": 13,
-      "username": "domarovskiyvb1984",
-      "games": 789,
-      "rating": 2185,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/domarovskiyvb1984"
     },
     {
       "rank": 14,
@@ -1556,14 +1556,6 @@
     },
     {
       "rank": 195,
-      "username": "djoenan",
-      "games": 426,
-      "rating": 1668,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/djoenan"
-    },
-    {
-      "rank": 196,
       "username": "masimbagodora0",
       "games": 426,
       "rating": 1898,
@@ -1571,7 +1563,7 @@
       "profile": "https://lichess.org/@/masimbagodora0"
     },
     {
-      "rank": 197,
+      "rank": 196,
       "username": "sserr11",
       "games": 426,
       "rating": 1713,
@@ -1579,7 +1571,7 @@
       "profile": "https://lichess.org/@/sserr11"
     },
     {
-      "rank": 198,
+      "rank": 197,
       "username": "yuvanshu",
       "games": 426,
       "rating": 1640,
@@ -1587,12 +1579,20 @@
       "profile": "https://lichess.org/@/yuvanshu"
     },
     {
-      "rank": 199,
+      "rank": 198,
       "username": "azazzil",
       "games": 425,
       "rating": 2102,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/azazzil"
+    },
+    {
+      "rank": 199,
+      "username": "djoenan",
+      "games": 425,
+      "rating": 1668,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/djoenan"
     },
     {
       "rank": 200,
