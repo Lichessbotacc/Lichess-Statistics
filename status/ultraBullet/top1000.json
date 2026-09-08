@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:21:39.119362+00:00",
+  "updated_at": "2026-09-08T12:26:40.904332+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -388,6 +388,14 @@
     },
     {
       "rank": 49,
+      "username": "timobjornson",
+      "games": 806,
+      "rating": 1830,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/timobjornson"
+    },
+    {
+      "rank": 50,
       "username": "aditya-beast",
       "games": 799,
       "rating": 2242,
@@ -395,7 +403,7 @@
       "profile": "https://lichess.org/@/aditya-beast"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "username": "fantom2234",
       "games": 790,
       "rating": 2106,
@@ -403,7 +411,7 @@
       "profile": "https://lichess.org/@/fantom2234"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "username": "mache80",
       "games": 783,
       "rating": 1362,
@@ -411,7 +419,7 @@
       "profile": "https://lichess.org/@/mache80"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "username": "a127tgdbf",
       "games": 782,
       "rating": 1854,
@@ -419,7 +427,7 @@
       "profile": "https://lichess.org/@/a127tgdbf"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "username": "snowmountain17",
       "games": 781,
       "rating": 2029,
@@ -427,7 +435,7 @@
       "profile": "https://lichess.org/@/snowmountain17"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "username": "arqcap",
       "games": 769,
       "rating": 1729,
@@ -435,7 +443,7 @@
       "profile": "https://lichess.org/@/arqcap"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "username": "srcapivara",
       "games": 762,
       "rating": 1684,
@@ -443,7 +451,7 @@
       "profile": "https://lichess.org/@/srcapivara"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "username": "larichey",
       "games": 758,
       "rating": 2146,
@@ -451,7 +459,7 @@
       "profile": "https://lichess.org/@/larichey"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "username": "friedricholbricht",
       "games": 738,
       "rating": 1971,
@@ -459,7 +467,7 @@
       "profile": "https://lichess.org/@/friedricholbricht"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "username": "mgneph010",
       "games": 738,
       "rating": 1481,
@@ -467,20 +475,12 @@
       "profile": "https://lichess.org/@/mgneph010"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "username": "rainerzufal",
       "games": 732,
       "rating": 2015,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/rainerzufal"
-    },
-    {
-      "rank": 60,
-      "username": "timobjornson",
-      "games": 731,
-      "rating": 1830,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/timobjornson"
     },
     {
       "rank": 61,
@@ -3612,14 +3612,6 @@
     },
     {
       "rank": 452,
-      "username": "severussnape11",
-      "games": 210,
-      "rating": 1718,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/severussnape11"
-    },
-    {
-      "rank": 453,
       "username": "toji_fushiguro_123",
       "games": 210,
       "rating": 2034,
@@ -3627,12 +3619,20 @@
       "profile": "https://lichess.org/@/toji_fushiguro_123"
     },
     {
-      "rank": 454,
+      "rank": 453,
       "username": "elmejor365",
       "games": 208,
       "rating": 1900,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/elmejor365"
+    },
+    {
+      "rank": 454,
+      "username": "severussnape11",
+      "games": 208,
+      "rating": 1718,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/severussnape11"
     },
     {
       "rank": 455,
