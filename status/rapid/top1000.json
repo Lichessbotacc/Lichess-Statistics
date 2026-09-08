@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:38:38.562665+00:00",
+  "updated_at": "2026-09-08T23:43:41.629720+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1812,14 +1812,6 @@
     },
     {
       "rank": 227,
-      "username": "villach",
-      "games": 250,
-      "rating": 1601,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/villach"
-    },
-    {
-      "rank": 228,
       "username": "akashchmp",
       "games": 249,
       "rating": 1938,
@@ -1827,12 +1819,20 @@
       "profile": "https://lichess.org/@/akashchmp"
     },
     {
-      "rank": 229,
+      "rank": 228,
       "username": "ashborne71",
       "games": 249,
       "rating": 1825,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/ashborne71"
+    },
+    {
+      "rank": 229,
+      "username": "villach",
+      "games": 249,
+      "rating": 1601,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/villach"
     },
     {
       "rank": 230,
