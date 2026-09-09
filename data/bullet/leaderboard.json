@@ -12296,7 +12296,7 @@
     "nsi1": 239,
     "nsiki": 180,
     "nsk_j-j": 22,
-    "nslawyer": 1388,
+    "nslawyer": 1549,
     "nsonga": 255,
     "ntnwill": 17,
     "ntomu": 53,
@@ -30844,7 +30844,7 @@
     "nsi1": "2026-09-06T03:32:00.246273+00:00",
     "nsiki": "2026-09-05T18:58:35.576277+00:00",
     "nsk_j-j": "2026-09-06T21:09:42.598432+00:00",
-    "nslawyer": "2026-09-08T18:13:00.977054+00:00",
+    "nslawyer": "2026-09-09T12:30:22.924898+00:00",
     "nsonga": "2026-09-06T04:35:45.470638+00:00",
     "ntnwill": "2026-09-05T14:29:44.688219+00:00",
     "ntomu": "2026-09-04T04:24:22.707790+00:00",
@@ -37217,9 +37217,17 @@
       "username": "dadda_83"
     },
     {
+      "games": 1549,
+      "profile": "https://lichess.org/@/nslawyer",
+      "rank": 16,
+      "rating": 2038,
+      "source": "Turnier",
+      "username": "nslawyer"
+    },
+    {
       "games": 1515,
       "profile": "https://lichess.org/@/jobless01",
-      "rank": 16,
+      "rank": 17,
       "rating": 1153,
       "source": "Lobby-Crawl",
       "username": "jobless01"
@@ -37227,7 +37235,7 @@
     {
       "games": 1515,
       "profile": "https://lichess.org/@/kinkytight",
-      "rank": 17,
+      "rank": 18,
       "rating": 2220,
       "source": "Lobby-Crawl",
       "username": "kinkytight"
@@ -37235,7 +37243,7 @@
     {
       "games": 1464,
       "profile": "https://lichess.org/@/soyphenomm",
-      "rank": 18,
+      "rank": 19,
       "rating": 2010,
       "source": "Turnier",
       "username": "soyphenomm"
@@ -37243,7 +37251,7 @@
     {
       "games": 1457,
       "profile": "https://lichess.org/@/santosbarrios",
-      "rank": 19,
+      "rank": 20,
       "rating": 2801,
       "source": "Lobby-Crawl",
       "username": "santosbarrios"
@@ -37251,7 +37259,7 @@
     {
       "games": 1407,
       "profile": "https://lichess.org/@/nimzo-kenyan",
-      "rank": 20,
+      "rank": 21,
       "rating": 1889,
       "source": "Lobby-Crawl",
       "username": "nimzo-kenyan"
@@ -37259,7 +37267,7 @@
     {
       "games": 1397,
       "profile": "https://lichess.org/@/renso_the_great",
-      "rank": 21,
+      "rank": 22,
       "rating": 1977,
       "source": "Turnier",
       "username": "renso_the_great"
@@ -37267,18 +37275,10 @@
     {
       "games": 1390,
       "profile": "https://lichess.org/@/din_skugga",
-      "rank": 22,
+      "rank": 23,
       "rating": 2606,
       "source": "Lobby-Crawl",
       "username": "din_skugga"
-    },
-    {
-      "games": 1388,
-      "profile": "https://lichess.org/@/nslawyer",
-      "rank": 23,
-      "rating": 2038,
-      "source": "Turnier",
-      "username": "nslawyer"
     },
     {
       "games": 1381,
@@ -185465,5 +185465,5 @@
       "username": "leonardleonerd"
     }
   ],
-  "updated_at": "2026-09-09T12:24:59.689859+00:00"
+  "updated_at": "2026-09-09T12:30:22.930290+00:00"
 }
