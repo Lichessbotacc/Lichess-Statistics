@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:34:46.112673+00:00",
+  "updated_at": "2026-09-09T04:39:48.123049+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -68,14 +68,6 @@
     },
     {
       "rank": 9,
-      "username": "lazor13",
-      "games": 893,
-      "rating": 1813,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/lazor13"
-    },
-    {
-      "rank": 10,
       "username": "gunvirtual",
       "games": 864,
       "rating": 1806,
@@ -83,12 +75,20 @@
       "profile": "https://lichess.org/@/gunvirtual"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "username": "kaissiber",
       "games": 863,
       "rating": 2366,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kaissiber"
+    },
+    {
+      "rank": 11,
+      "username": "lazor13",
+      "games": 840,
+      "rating": 1813,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/lazor13"
     },
     {
       "rank": 12,
