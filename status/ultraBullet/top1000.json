@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:52:19.311469+00:00",
+  "updated_at": "2026-09-09T19:59:02.363853+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -60,19 +60,19 @@
     },
     {
       "rank": 8,
+      "username": "leeuw7",
+      "games": 1530,
+      "rating": 1428,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/leeuw7"
+    },
+    {
+      "rank": 9,
       "username": "affections",
       "games": 1514,
       "rating": 1550,
       "source": "Turnier",
       "profile": "https://lichess.org/@/affections"
-    },
-    {
-      "rank": 9,
-      "username": "leeuw7",
-      "games": 1485,
-      "rating": 1428,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/leeuw7"
     },
     {
       "rank": 10,
@@ -1652,14 +1652,6 @@
     },
     {
       "rank": 207,
-      "username": "hambozooov",
-      "games": 373,
-      "rating": 1678,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/hambozooov"
-    },
-    {
-      "rank": 208,
       "username": "chesscoachfshr",
       "games": 372,
       "rating": 2207,
@@ -1667,7 +1659,7 @@
       "profile": "https://lichess.org/@/chesscoachfshr"
     },
     {
-      "rank": 209,
+      "rank": 208,
       "username": "john1914",
       "games": 372,
       "rating": 1642,
@@ -1675,7 +1667,7 @@
       "profile": "https://lichess.org/@/john1914"
     },
     {
-      "rank": 210,
+      "rank": 209,
       "username": "pruki",
       "games": 371,
       "rating": 1589,
@@ -1683,7 +1675,7 @@
       "profile": "https://lichess.org/@/pruki"
     },
     {
-      "rank": 211,
+      "rank": 210,
       "username": "dioxis10",
       "games": 369,
       "rating": 1741,
@@ -1691,7 +1683,7 @@
       "profile": "https://lichess.org/@/dioxis10"
     },
     {
-      "rank": 212,
+      "rank": 211,
       "username": "yoochess2_0",
       "games": 369,
       "rating": 1310,
@@ -1699,7 +1691,7 @@
       "profile": "https://lichess.org/@/yoochess2_0"
     },
     {
-      "rank": 213,
+      "rank": 212,
       "username": "peter-parker26",
       "games": 368,
       "rating": 1998,
@@ -1707,7 +1699,7 @@
       "profile": "https://lichess.org/@/peter-parker26"
     },
     {
-      "rank": 214,
+      "rank": 213,
       "username": "a16108",
       "games": 367,
       "rating": 1791,
@@ -1715,7 +1707,7 @@
       "profile": "https://lichess.org/@/a16108"
     },
     {
-      "rank": 215,
+      "rank": 214,
       "username": "aarav_singh_09",
       "games": 367,
       "rating": 1400,
@@ -1723,7 +1715,7 @@
       "profile": "https://lichess.org/@/aarav_singh_09"
     },
     {
-      "rank": 216,
+      "rank": 215,
       "username": "ezrg94",
       "games": 367,
       "rating": 1699,
@@ -1731,7 +1723,7 @@
       "profile": "https://lichess.org/@/ezrg94"
     },
     {
-      "rank": 217,
+      "rank": 216,
       "username": "notfairbm",
       "games": 367,
       "rating": 1912,
@@ -1739,7 +1731,7 @@
       "profile": "https://lichess.org/@/notfairbm"
     },
     {
-      "rank": 218,
+      "rank": 217,
       "username": "chesschamps15",
       "games": 366,
       "rating": 2290,
@@ -1747,7 +1739,7 @@
       "profile": "https://lichess.org/@/chesschamps15"
     },
     {
-      "rank": 219,
+      "rank": 218,
       "username": "egorpro777",
       "games": 366,
       "rating": 1775,
@@ -1755,7 +1747,7 @@
       "profile": "https://lichess.org/@/egorpro777"
     },
     {
-      "rank": 220,
+      "rank": 219,
       "username": "fedp2018",
       "games": 366,
       "rating": 1838,
@@ -1763,7 +1755,7 @@
       "profile": "https://lichess.org/@/fedp2018"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "username": "nooomyinternet",
       "games": 366,
       "rating": 1793,
@@ -1771,12 +1763,20 @@
       "profile": "https://lichess.org/@/nooomyinternet"
     },
     {
-      "rank": 222,
+      "rank": 221,
       "username": "wurstnwurstnwurstn",
       "games": 366,
       "rating": 1834,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/wurstnwurstnwurstn"
+    },
+    {
+      "rank": 222,
+      "username": "hambozooov",
+      "games": 361,
+      "rating": 1678,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/hambozooov"
     },
     {
       "rank": 223,
