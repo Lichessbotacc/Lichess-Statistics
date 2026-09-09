@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:12:09.313979+00:00",
+  "updated_at": "2026-09-09T22:17:09.367919+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1860,14 +1860,6 @@
     },
     {
       "rank": 233,
-      "username": "pavlo_khoma",
-      "games": 443,
-      "rating": 1787,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/pavlo_khoma"
-    },
-    {
-      "rank": 234,
       "username": "skripuchii75",
       "games": 443,
       "rating": 1705,
@@ -1875,7 +1867,7 @@
       "profile": "https://lichess.org/@/skripuchii75"
     },
     {
-      "rank": 235,
+      "rank": 234,
       "username": "wonderboof",
       "games": 443,
       "rating": 1452,
@@ -1883,7 +1875,7 @@
       "profile": "https://lichess.org/@/wonderboof"
     },
     {
-      "rank": 236,
+      "rank": 235,
       "username": "tigram2600",
       "games": 442,
       "rating": 2064,
@@ -1891,7 +1883,7 @@
       "profile": "https://lichess.org/@/tigram2600"
     },
     {
-      "rank": 237,
+      "rank": 236,
       "username": "amerseida",
       "games": 441,
       "rating": 1180,
@@ -1899,7 +1891,7 @@
       "profile": "https://lichess.org/@/amerseida"
     },
     {
-      "rank": 238,
+      "rank": 237,
       "username": "abdi126",
       "games": 441,
       "rating": 1271,
@@ -1907,7 +1899,7 @@
       "profile": "https://lichess.org/@/abdi126"
     },
     {
-      "rank": 239,
+      "rank": 238,
       "username": "el_scopolamine",
       "games": 441,
       "rating": 1400,
@@ -1915,12 +1907,20 @@
       "profile": "https://lichess.org/@/el_scopolamine"
     },
     {
-      "rank": 240,
+      "rank": 239,
       "username": "jimsheri1965",
       "games": 440,
       "rating": 1439,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/jimsheri1965"
+    },
+    {
+      "rank": 240,
+      "username": "pavlo_khoma",
+      "games": 439,
+      "rating": 1787,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/pavlo_khoma"
     },
     {
       "rank": 241,
