@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:23:46.735300+00:00",
+  "updated_at": "2026-09-10T11:31:18.508995+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -12,19 +12,19 @@
     },
     {
       "rank": 2,
+      "username": "anemoschess",
+      "games": 2018,
+      "rating": 1350,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/anemoschess"
+    },
+    {
+      "rank": 3,
       "username": "doctordrunkmagnus",
       "games": 2017,
       "rating": 2197,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/doctordrunkmagnus"
-    },
-    {
-      "rank": 3,
-      "username": "anemoschess",
-      "games": 1992,
-      "rating": 1350,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/anemoschess"
     },
     {
       "rank": 4,
