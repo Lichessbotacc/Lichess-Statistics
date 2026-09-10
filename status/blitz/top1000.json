@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T03:15:32.072958+00:00",
+  "updated_at": "2026-09-10T03:22:03.217251+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -596,14 +596,6 @@
     },
     {
       "rank": 75,
-      "username": "jclb",
-      "games": 609,
-      "rating": 1625,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/jclb"
-    },
-    {
-      "rank": 76,
       "username": "slavavolt",
       "games": 609,
       "rating": 1190,
@@ -611,12 +603,20 @@
       "profile": "https://lichess.org/@/slavavolt"
     },
     {
-      "rank": 77,
+      "rank": 76,
       "username": "ashesiyah",
       "games": 605,
       "rating": 2068,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/ashesiyah"
+    },
+    {
+      "rank": 77,
+      "username": "jclb",
+      "games": 598,
+      "rating": 1625,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/jclb"
     },
     {
       "rank": 78,
