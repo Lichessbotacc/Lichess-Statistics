@@ -25306,7 +25306,7 @@
     "mounishrrita": 0,
     "mountbellew": 0,
     "mouradnouri": 507,
-    "mourninstar": 1763,
+    "mourninstar": 1618,
     "mourtada": 0,
     "mousedoesntmakesens": 0,
     "mousegame": 0,
@@ -47437,7 +47437,7 @@
     "blupperbert": "2026-09-10T08:53:37.379588+00:00",
     "blurr_the_cat": "2026-09-05T07:38:45.077478+00:00",
     "blurryface3141": "2026-09-09T06:37:42.561839+00:00",
-    "blurt_289": "2026-09-09T02:31:35.978357+00:00",
+    "blurt_289": "2026-09-10T11:31:33.300322+00:00",
     "bluumeri": "2026-09-10T10:11:01.063773+00:00",
     "bluyin": "2026-09-04T09:24:25.920903+00:00",
     "blvckananya": "2026-09-10T03:35:09.355776+00:00",
@@ -66885,7 +66885,7 @@
     "mounishrrita": "2026-09-05T21:08:32.445182+00:00",
     "mountbellew": "2026-09-10T04:38:41.465050+00:00",
     "mouradnouri": "2026-09-09T18:17:13.786975+00:00",
-    "mourninstar": "2026-09-09T17:09:11.238649+00:00",
+    "mourninstar": "2026-09-10T11:37:02.660183+00:00",
     "mourtada": "2026-09-09T03:13:33.919492+00:00",
     "mousedoesntmakesens": "2026-09-07T15:01:43.222016+00:00",
     "mousegame": "2026-09-06T11:33:42.488192+00:00",
@@ -83199,17 +83199,9 @@
       "username": "hajeko"
     },
     {
-      "games": 1763,
-      "profile": "https://lichess.org/@/mourninstar",
-      "rank": 6,
-      "rating": 972,
-      "source": "Turnier",
-      "username": "mourninstar"
-    },
-    {
       "games": 1748,
       "profile": "https://lichess.org/@/affections",
-      "rank": 7,
+      "rank": 6,
       "rating": 1550,
       "source": "Turnier",
       "username": "affections"
@@ -83217,10 +83209,18 @@
     {
       "games": 1650,
       "profile": "https://lichess.org/@/dragon_emperor_9774",
-      "rank": 8,
+      "rank": 7,
       "rating": 1869,
       "source": "Lobby-Crawl",
       "username": "dragon_emperor_9774"
+    },
+    {
+      "games": 1618,
+      "profile": "https://lichess.org/@/mourninstar",
+      "rank": 8,
+      "rating": 972,
+      "source": "Turnier",
+      "username": "mourninstar"
     },
     {
       "games": 1574,
@@ -415775,5 +415775,5 @@
       "username": "serjio2103"
     }
   ],
-  "updated_at": "2026-09-10T11:31:18.146862+00:00"
+  "updated_at": "2026-09-10T11:37:02.666918+00:00"
 }
