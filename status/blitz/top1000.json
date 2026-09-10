@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:17:14.142175+00:00",
+  "updated_at": "2026-09-10T02:22:54.381228+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -476,14 +476,6 @@
     },
     {
       "rank": 60,
-      "username": "alexmoorechess",
-      "games": 629,
-      "rating": 1936,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/alexmoorechess"
-    },
-    {
-      "rank": 61,
       "username": "j_aquino",
       "games": 628,
       "rating": 1514,
@@ -491,7 +483,7 @@
       "profile": "https://lichess.org/@/j_aquino"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "username": "kumir_shaxm_strimerh",
       "games": 627,
       "rating": 2337,
@@ -499,7 +491,7 @@
       "profile": "https://lichess.org/@/kumir_shaxm_strimerh"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "skutulasss",
       "games": 626,
       "rating": 1597,
@@ -507,7 +499,7 @@
       "profile": "https://lichess.org/@/skutulasss"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "username": "zingly22",
       "games": 625,
       "rating": 1263,
@@ -515,7 +507,7 @@
       "profile": "https://lichess.org/@/zingly22"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "username": "dervyn",
       "games": 623,
       "rating": 2008,
@@ -523,7 +515,7 @@
       "profile": "https://lichess.org/@/dervyn"
     },
     {
-      "rank": 66,
+      "rank": 65,
       "username": "donlulas_23",
       "games": 622,
       "rating": 2205,
@@ -531,7 +523,7 @@
       "profile": "https://lichess.org/@/donlulas_23"
     },
     {
-      "rank": 67,
+      "rank": 66,
       "username": "akim68mac",
       "games": 621,
       "rating": 1937,
@@ -539,12 +531,20 @@
       "profile": "https://lichess.org/@/akim68mac"
     },
     {
-      "rank": 68,
+      "rank": 67,
       "username": "one_two_tree",
       "games": 621,
       "rating": 1696,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/one_two_tree"
+    },
+    {
+      "rank": 68,
+      "username": "alexmoorechess",
+      "games": 618,
+      "rating": 1936,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/alexmoorechess"
     },
     {
       "rank": 69,
