@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:51:48.621864+00:00",
+  "updated_at": "2026-09-10T02:56:50.548300+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -2028,6 +2028,14 @@
     },
     {
       "rank": 254,
+      "username": "hoegi",
+      "games": 766,
+      "rating": 2541,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/hoegi"
+    },
+    {
+      "rank": 255,
       "username": "japbob",
       "games": 766,
       "rating": 1932,
@@ -2035,7 +2043,7 @@
       "profile": "https://lichess.org/@/japbob"
     },
     {
-      "rank": 255,
+      "rank": 256,
       "username": "muslim1973",
       "games": 766,
       "rating": 1236,
@@ -2043,7 +2051,7 @@
       "profile": "https://lichess.org/@/muslim1973"
     },
     {
-      "rank": 256,
+      "rank": 257,
       "username": "alishtixoniy",
       "games": 765,
       "rating": 1985,
@@ -2051,7 +2059,7 @@
       "profile": "https://lichess.org/@/alishtixoniy"
     },
     {
-      "rank": 257,
+      "rank": 258,
       "username": "oneoyleya",
       "games": 765,
       "rating": 2566,
@@ -2059,7 +2067,7 @@
       "profile": "https://lichess.org/@/oneoyleya"
     },
     {
-      "rank": 258,
+      "rank": 259,
       "username": "lonewolf81",
       "games": 764,
       "rating": 1616,
@@ -2067,7 +2075,7 @@
       "profile": "https://lichess.org/@/lonewolf81"
     },
     {
-      "rank": 259,
+      "rank": 260,
       "username": "piotrsj",
       "games": 764,
       "rating": 1816,
@@ -2075,20 +2083,12 @@
       "profile": "https://lichess.org/@/piotrsj"
     },
     {
-      "rank": 260,
+      "rank": 261,
       "username": "maryfrancis",
       "games": 763,
       "rating": 1996,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/maryfrancis"
-    },
-    {
-      "rank": 261,
-      "username": "hoegi",
-      "games": 761,
-      "rating": 2541,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/hoegi"
     },
     {
       "rank": 262,
@@ -4644,14 +4644,6 @@
     },
     {
       "rank": 581,
-      "username": "sillyturdle",
-      "games": 577,
-      "rating": 1805,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/sillyturdle"
-    },
-    {
-      "rank": 582,
       "username": "zen-arjunsharma_01",
       "games": 577,
       "rating": 1993,
@@ -4659,7 +4651,7 @@
       "profile": "https://lichess.org/@/zen-arjunsharma_01"
     },
     {
-      "rank": 583,
+      "rank": 582,
       "username": "oceancaracal",
       "games": 577,
       "rating": 918,
@@ -4667,7 +4659,7 @@
       "profile": "https://lichess.org/@/oceancaracal"
     },
     {
-      "rank": 584,
+      "rank": 583,
       "username": "pauze",
       "games": 576,
       "rating": 2310,
@@ -4675,7 +4667,7 @@
       "profile": "https://lichess.org/@/pauze"
     },
     {
-      "rank": 585,
+      "rank": 584,
       "username": "g900g900",
       "games": 575,
       "rating": 1709,
@@ -4683,7 +4675,7 @@
       "profile": "https://lichess.org/@/g900g900"
     },
     {
-      "rank": 586,
+      "rank": 585,
       "username": "iboden07",
       "games": 575,
       "rating": 1865,
@@ -4691,7 +4683,7 @@
       "profile": "https://lichess.org/@/iboden07"
     },
     {
-      "rank": 587,
+      "rank": 586,
       "username": "jp60",
       "games": 575,
       "rating": 1602,
@@ -4699,7 +4691,7 @@
       "profile": "https://lichess.org/@/jp60"
     },
     {
-      "rank": 588,
+      "rank": 587,
       "username": "raedaldahdouh",
       "games": 575,
       "rating": 2111,
@@ -4707,7 +4699,7 @@
       "profile": "https://lichess.org/@/raedaldahdouh"
     },
     {
-      "rank": 589,
+      "rank": 588,
       "username": "renko73",
       "games": 575,
       "rating": 1955,
@@ -4715,7 +4707,7 @@
       "profile": "https://lichess.org/@/renko73"
     },
     {
-      "rank": 590,
+      "rank": 589,
       "username": "shahram-khoshseffat",
       "games": 575,
       "rating": 1875,
@@ -4723,12 +4715,20 @@
       "profile": "https://lichess.org/@/shahram-khoshseffat"
     },
     {
-      "rank": 591,
+      "rank": 590,
       "username": "uwushka",
       "games": 575,
       "rating": 2449,
       "source": "Turnier",
       "profile": "https://lichess.org/@/uwushka"
+    },
+    {
+      "rank": 591,
+      "username": "sillyturdle",
+      "games": 574,
+      "rating": 1805,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/sillyturdle"
     },
     {
       "rank": 592,
