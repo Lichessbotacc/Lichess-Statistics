@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:02:50.135807+00:00",
+  "updated_at": "2026-09-10T22:07:58.352443+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -2388,14 +2388,6 @@
     },
     {
       "rank": 299,
-      "username": "gintarasvaupsas",
-      "games": 423,
-      "rating": 1812,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gintarasvaupsas"
-    },
-    {
-      "rank": 300,
       "username": "slipper",
       "games": 423,
       "rating": 1846,
@@ -2403,7 +2395,7 @@
       "profile": "https://lichess.org/@/slipper"
     },
     {
-      "rank": 301,
+      "rank": 300,
       "username": "zoaniv1500",
       "games": 422,
       "rating": 1558,
@@ -2411,7 +2403,7 @@
       "profile": "https://lichess.org/@/zoaniv1500"
     },
     {
-      "rank": 302,
+      "rank": 301,
       "username": "dewaice",
       "games": 421,
       "rating": 1671,
@@ -2419,7 +2411,7 @@
       "profile": "https://lichess.org/@/dewaice"
     },
     {
-      "rank": 303,
+      "rank": 302,
       "username": "zelkovahi",
       "games": 421,
       "rating": 1520,
@@ -2427,7 +2419,7 @@
       "profile": "https://lichess.org/@/zelkovahi"
     },
     {
-      "rank": 304,
+      "rank": 303,
       "username": "alamchess",
       "games": 420,
       "rating": 1455,
@@ -2435,7 +2427,7 @@
       "profile": "https://lichess.org/@/alamchess"
     },
     {
-      "rank": 305,
+      "rank": 304,
       "username": "artemawerin",
       "games": 420,
       "rating": 1770,
@@ -2443,12 +2435,20 @@
       "profile": "https://lichess.org/@/artemawerin"
     },
     {
-      "rank": 306,
+      "rank": 305,
       "username": "geminin",
       "games": 420,
       "rating": 1808,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/geminin"
+    },
+    {
+      "rank": 306,
+      "username": "gintarasvaupsas",
+      "games": 420,
+      "rating": 1812,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gintarasvaupsas"
     },
     {
       "rank": 307,
