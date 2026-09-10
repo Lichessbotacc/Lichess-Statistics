@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:16:43.466319+00:00",
+  "updated_at": "2026-09-10T10:22:04.512583+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7940,6 +7940,14 @@
     },
     {
       "rank": 993,
+      "username": "sanpon",
+      "games": 293,
+      "rating": 1799,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/sanpon"
+    },
+    {
+      "rank": 994,
       "username": "xx_superjorge2007_2",
       "games": 293,
       "rating": 1630,
@@ -7947,7 +7955,7 @@
       "profile": "https://lichess.org/@/xx_superjorge2007_2"
     },
     {
-      "rank": 994,
+      "rank": 995,
       "username": "arif_garessi",
       "games": 292,
       "rating": 1877,
@@ -7955,7 +7963,7 @@
       "profile": "https://lichess.org/@/arif_garessi"
     },
     {
-      "rank": 995,
+      "rank": 996,
       "username": "bbrelaunch",
       "games": 292,
       "rating": 2352,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/bbrelaunch"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "busel02",
       "games": 292,
       "rating": 2024,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/busel02"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "f4-basito",
       "games": 292,
       "rating": 1678,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/f4-basito"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "gordon051328",
       "games": 292,
       "rating": 1652,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/gordon051328"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "hermann12",
       "games": 292,
       "rating": 1509,
       "source": "Turnier",
       "profile": "https://lichess.org/@/hermann12"
-    },
-    {
-      "rank": 1000,
-      "username": "lysagora2",
-      "games": 292,
-      "rating": 1681,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/lysagora2"
     }
   ]
 }
