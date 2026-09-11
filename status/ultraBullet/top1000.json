@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T05:02:46.492609+00:00",
+  "updated_at": "2026-09-11T05:07:47.100283+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -3036,14 +3036,6 @@
     },
     {
       "rank": 380,
-      "username": "shapa1900",
-      "games": 242,
-      "rating": 1650,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/shapa1900"
-    },
-    {
-      "rank": 381,
       "username": "berserk31012012",
       "games": 241,
       "rating": 2092,
@@ -3051,7 +3043,7 @@
       "profile": "https://lichess.org/@/berserk31012012"
     },
     {
-      "rank": 382,
+      "rank": 381,
       "username": "mrszerky",
       "games": 241,
       "rating": 1553,
@@ -3059,7 +3051,7 @@
       "profile": "https://lichess.org/@/mrszerky"
     },
     {
-      "rank": 383,
+      "rank": 382,
       "username": "solomeoazul",
       "games": 241,
       "rating": 2105,
@@ -3067,12 +3059,20 @@
       "profile": "https://lichess.org/@/solomeoazul"
     },
     {
-      "rank": 384,
+      "rank": 383,
       "username": "abubakrdt",
       "games": 240,
       "rating": 2113,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/abubakrdt"
+    },
+    {
+      "rank": 384,
+      "username": "shapa1900",
+      "games": 240,
+      "rating": 1650,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/shapa1900"
     },
     {
       "rank": 385,
@@ -7948,6 +7948,14 @@
     },
     {
       "rank": 994,
+      "username": "david_sighart",
+      "games": 93,
+      "rating": 1685,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/david_sighart"
+    },
+    {
+      "rank": 995,
       "username": "deepakcharangv",
       "games": 93,
       "rating": 1759,
@@ -7955,7 +7963,7 @@
       "profile": "https://lichess.org/@/deepakcharangv"
     },
     {
-      "rank": 995,
+      "rank": 996,
       "username": "h0_sniper_0h",
       "games": 93,
       "rating": 1635,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/h0_sniper_0h"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "mon3343u_2009",
       "games": 93,
       "rating": 1519,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/mon3343u_2009"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "old-timey33",
       "games": 93,
       "rating": 1379,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/old-timey33"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "phone-zerk",
       "games": 93,
       "rating": 2080,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/phone-zerk"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "sylmz49",
       "games": 93,
       "rating": 993,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/sylmz49"
-    },
-    {
-      "rank": 1000,
-      "username": "ygu2077",
-      "games": 93,
-      "rating": 1938,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/ygu2077"
     }
   ]
 }
