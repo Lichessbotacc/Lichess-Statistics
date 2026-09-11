@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T02:30:54.038411+00:00",
+  "updated_at": "2026-09-11T02:36:37.184418+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7956,6 +7956,14 @@
     },
     {
       "rank": 995,
+      "username": "jerad1234",
+      "games": 493,
+      "rating": 1100,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jerad1234"
+    },
+    {
+      "rank": 996,
       "username": "amirhossein29khakbaz",
       "games": 492,
       "rating": 1887,
@@ -7963,7 +7971,7 @@
       "profile": "https://lichess.org/@/amirhossein29khakbaz"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "username": "bav56",
       "games": 492,
       "rating": 2036,
@@ -7971,7 +7979,7 @@
       "profile": "https://lichess.org/@/bav56"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "username": "lo4",
       "games": 492,
       "rating": 1546,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/lo4"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "mente_palpitante",
       "games": 492,
       "rating": 2258,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/mente_palpitante"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "mohamedyousof",
       "games": 492,
       "rating": 2080,
       "source": "Turnier",
       "profile": "https://lichess.org/@/mohamedyousof"
-    },
-    {
-      "rank": 1000,
-      "username": "powerrazorblade",
-      "games": 492,
-      "rating": 1819,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/powerrazorblade"
     }
   ]
 }
