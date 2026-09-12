@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:36:32.411014+00:00",
+  "updated_at": "2026-09-12T08:42:30.126810+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7956,14 +7956,6 @@
     },
     {
       "rank": 995,
-      "username": "dravenirelia",
-      "games": 507,
-      "rating": 1725,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/dravenirelia"
-    },
-    {
-      "rank": 996,
       "username": "jessenewone",
       "games": 507,
       "rating": 1435,
@@ -7971,7 +7963,7 @@
       "profile": "https://lichess.org/@/jessenewone"
     },
     {
-      "rank": 997,
+      "rank": 996,
       "username": "major_lift",
       "games": 507,
       "rating": 1715,
@@ -7979,7 +7971,7 @@
       "profile": "https://lichess.org/@/major_lift"
     },
     {
-      "rank": 998,
+      "rank": 997,
       "username": "yossilinder",
       "games": 507,
       "rating": 1927,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/yossilinder"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "zenbattler",
       "games": 507,
       "rating": 2241,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/zenbattler"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "archimi",
       "games": 506,
       "rating": 1632,
       "source": "Turnier",
       "profile": "https://lichess.org/@/archimi"
+    },
+    {
+      "rank": 1000,
+      "username": "checkpatz",
+      "games": 506,
+      "rating": 1677,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/checkpatz"
     }
   ]
 }
