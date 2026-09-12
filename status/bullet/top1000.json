@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:14:38.195375+00:00",
+  "updated_at": "2026-09-12T10:31:11.185952+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1028,14 +1028,6 @@
     },
     {
       "rank": 129,
-      "username": "l_s_d",
-      "games": 986,
-      "rating": 2363,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/l_s_d"
-    },
-    {
-      "rank": 130,
       "username": "vitkoz922",
       "games": 986,
       "rating": 1013,
@@ -1043,7 +1035,7 @@
       "profile": "https://lichess.org/@/vitkoz922"
     },
     {
-      "rank": 131,
+      "rank": 130,
       "username": "lale1975",
       "games": 984,
       "rating": 2444,
@@ -1051,7 +1043,7 @@
       "profile": "https://lichess.org/@/lale1975"
     },
     {
-      "rank": 132,
+      "rank": 131,
       "username": "imsmims",
       "games": 980,
       "rating": 2020,
@@ -1059,7 +1051,7 @@
       "profile": "https://lichess.org/@/imsmims"
     },
     {
-      "rank": 133,
+      "rank": 132,
       "username": "the_adorable_crow",
       "games": 977,
       "rating": 2633,
@@ -1067,7 +1059,7 @@
       "profile": "https://lichess.org/@/the_adorable_crow"
     },
     {
-      "rank": 134,
+      "rank": 133,
       "username": "zabol_chess",
       "games": 975,
       "rating": 1642,
@@ -1075,7 +1067,7 @@
       "profile": "https://lichess.org/@/zabol_chess"
     },
     {
-      "rank": 135,
+      "rank": 134,
       "username": "vo1ych",
       "games": 974,
       "rating": 2017,
@@ -1083,7 +1075,7 @@
       "profile": "https://lichess.org/@/vo1ych"
     },
     {
-      "rank": 136,
+      "rank": 135,
       "username": "ibne_ahmad",
       "games": 972,
       "rating": 1794,
@@ -1091,7 +1083,7 @@
       "profile": "https://lichess.org/@/ibne_ahmad"
     },
     {
-      "rank": 137,
+      "rank": 136,
       "username": "yeloparis",
       "games": 972,
       "rating": 1829,
@@ -1099,7 +1091,7 @@
       "profile": "https://lichess.org/@/yeloparis"
     },
     {
-      "rank": 138,
+      "rank": 137,
       "username": "crowbunny",
       "games": 970,
       "rating": 1822,
@@ -1107,7 +1099,7 @@
       "profile": "https://lichess.org/@/crowbunny"
     },
     {
-      "rank": 139,
+      "rank": 138,
       "username": "crazy_clown",
       "games": 965,
       "rating": 2073,
@@ -1115,7 +1107,7 @@
       "profile": "https://lichess.org/@/crazy_clown"
     },
     {
-      "rank": 140,
+      "rank": 139,
       "username": "satishshiva",
       "games": 964,
       "rating": 2481,
@@ -1123,7 +1115,7 @@
       "profile": "https://lichess.org/@/satishshiva"
     },
     {
-      "rank": 141,
+      "rank": 140,
       "username": "kolesnikav",
       "games": 962,
       "rating": 2297,
@@ -1131,7 +1123,7 @@
       "profile": "https://lichess.org/@/kolesnikav"
     },
     {
-      "rank": 142,
+      "rank": 141,
       "username": "kyabaataykyabaatay",
       "games": 961,
       "rating": 1781,
@@ -1139,7 +1131,7 @@
       "profile": "https://lichess.org/@/kyabaataykyabaatay"
     },
     {
-      "rank": 143,
+      "rank": 142,
       "username": "josephmartinbullet",
       "games": 958,
       "rating": 2411,
@@ -1147,7 +1139,7 @@
       "profile": "https://lichess.org/@/josephmartinbullet"
     },
     {
-      "rank": 144,
+      "rank": 143,
       "username": "williammer",
       "games": 957,
       "rating": 1465,
@@ -1155,12 +1147,20 @@
       "profile": "https://lichess.org/@/williammer"
     },
     {
-      "rank": 145,
+      "rank": 144,
       "username": "brodicc",
       "games": 946,
       "rating": 1269,
       "source": "Turnier",
       "profile": "https://lichess.org/@/brodicc"
+    },
+    {
+      "rank": 145,
+      "username": "l_s_d",
+      "games": 945,
+      "rating": 2363,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/l_s_d"
     },
     {
       "rank": 146,
@@ -3116,19 +3116,19 @@
     },
     {
       "rank": 390,
-      "username": "susguan",
-      "games": 706,
-      "rating": 1882,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/susguan"
-    },
-    {
-      "rank": 391,
       "username": "oerkki",
       "games": 706,
       "rating": 2344,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/oerkki"
+    },
+    {
+      "rank": 391,
+      "username": "susguan",
+      "games": 706,
+      "rating": 1882,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/susguan"
     },
     {
       "rank": 392,
