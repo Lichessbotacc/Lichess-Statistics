@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:15:34.486252+00:00",
+  "updated_at": "2026-09-12T23:20:34.970446+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -236,6 +236,14 @@
     },
     {
       "rank": 30,
+      "username": "passerby_sa",
+      "games": 919,
+      "rating": 1824,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/passerby_sa"
+    },
+    {
+      "rank": 31,
       "username": "dj12",
       "games": 918,
       "rating": 2171,
@@ -243,7 +251,7 @@
       "profile": "https://lichess.org/@/dj12"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "vverti",
       "games": 914,
       "rating": 2100,
@@ -251,20 +259,12 @@
       "profile": "https://lichess.org/@/vverti"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "vertel",
       "games": 877,
       "rating": 1995,
       "source": "Turnier",
       "profile": "https://lichess.org/@/vertel"
-    },
-    {
-      "rank": 33,
-      "username": "passerby_sa",
-      "games": 866,
-      "rating": 1824,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/passerby_sa"
     },
     {
       "rank": 34,
@@ -2316,14 +2316,6 @@
     },
     {
       "rank": 290,
-      "username": "daniyar_2011",
-      "games": 296,
-      "rating": 1783,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/daniyar_2011"
-    },
-    {
-      "rank": 291,
       "username": "exomalyoncrack",
       "games": 296,
       "rating": 1699,
@@ -2331,7 +2323,7 @@
       "profile": "https://lichess.org/@/exomalyoncrack"
     },
     {
-      "rank": 292,
+      "rank": 291,
       "username": "kavaliro",
       "games": 296,
       "rating": 1962,
@@ -2339,7 +2331,7 @@
       "profile": "https://lichess.org/@/kavaliro"
     },
     {
-      "rank": 293,
+      "rank": 292,
       "username": "valprospy",
       "games": 296,
       "rating": 1964,
@@ -2347,7 +2339,7 @@
       "profile": "https://lichess.org/@/valprospy"
     },
     {
-      "rank": 294,
+      "rank": 293,
       "username": "vlad2303",
       "games": 296,
       "rating": 1608,
@@ -2355,7 +2347,7 @@
       "profile": "https://lichess.org/@/vlad2303"
     },
     {
-      "rank": 295,
+      "rank": 294,
       "username": "don_anton",
       "games": 295,
       "rating": 1705,
@@ -2363,12 +2355,20 @@
       "profile": "https://lichess.org/@/don_anton"
     },
     {
-      "rank": 296,
+      "rank": 295,
       "username": "aasedoy",
       "games": 294,
       "rating": 1752,
       "source": "Turnier",
       "profile": "https://lichess.org/@/aasedoy"
+    },
+    {
+      "rank": 296,
+      "username": "daniyar_2011",
+      "games": 294,
+      "rating": 1783,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/daniyar_2011"
     },
     {
       "rank": 297,
