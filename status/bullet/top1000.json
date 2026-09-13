@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T13:18:58.701635+00:00",
+  "updated_at": "2026-09-13T13:25:46.464946+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -484,14 +484,6 @@
     },
     {
       "rank": 61,
-      "username": "sombak",
-      "games": 1255,
-      "rating": 1564,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/sombak"
-    },
-    {
-      "rank": 62,
       "username": "tenththedoctor",
       "games": 1254,
       "rating": 1642,
@@ -499,12 +491,20 @@
       "profile": "https://lichess.org/@/tenththedoctor"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "chessvorus",
       "games": 1240,
       "rating": 2303,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/chessvorus"
+    },
+    {
+      "rank": 63,
+      "username": "sombak",
+      "games": 1239,
+      "rating": 1564,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/sombak"
     },
     {
       "rank": 64,
