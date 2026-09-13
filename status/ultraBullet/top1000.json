@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:52:42.231984+00:00",
+  "updated_at": "2026-09-13T23:59:49.049451+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "rank": 7,
+      "username": "anemoschess",
+      "games": 1590,
+      "rating": 1350,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/anemoschess"
+    },
+    {
+      "rank": 8,
       "username": "nikitosik1708",
       "games": 1583,
       "rating": 2009,
@@ -59,7 +67,7 @@
       "profile": "https://lichess.org/@/nikitosik1708"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "username": "doctordrunkmagnus",
       "games": 1566,
       "rating": 2197,
@@ -67,7 +75,7 @@
       "profile": "https://lichess.org/@/doctordrunkmagnus"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "username": "cristianoronaldo_111",
       "games": 1382,
       "rating": 2075,
@@ -75,20 +83,12 @@
       "profile": "https://lichess.org/@/cristianoronaldo_111"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "username": "parpalac",
       "games": 1333,
       "rating": 1435,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/parpalac"
-    },
-    {
-      "rank": 11,
-      "username": "anemoschess",
-      "games": 1313,
-      "rating": 1350,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/anemoschess"
     },
     {
       "rank": 12,
