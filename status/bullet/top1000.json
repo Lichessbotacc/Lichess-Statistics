@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:53:07.260054+00:00",
+  "updated_at": "2026-09-13T21:03:47.845111+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1055,7 +1055,7 @@
       "username": "kvb1980",
       "games": 1013,
       "rating": 2037,
-      "source": "Turnier",
+      "source": "?",
       "profile": "https://lichess.org/@/kvb1980"
     },
     {
@@ -3204,19 +3204,19 @@
     },
     {
       "rank": 401,
-      "username": "ewened",
-      "games": 719,
-      "rating": 2150,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/ewened"
-    },
-    {
-      "rank": 402,
       "username": "delnik",
       "games": 719,
       "rating": 2016,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/delnik"
+    },
+    {
+      "rank": 402,
+      "username": "ewened",
+      "games": 719,
+      "rating": 2150,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/ewened"
     },
     {
       "rank": 403,
