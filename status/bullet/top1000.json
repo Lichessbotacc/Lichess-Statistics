@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:56:13.647213+00:00",
+  "updated_at": "2026-09-13T15:03:53.626495+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -284,14 +284,6 @@
     },
     {
       "rank": 36,
-      "username": "aprendiz-de-colegial",
-      "games": 1402,
-      "rating": 2211,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/aprendiz-de-colegial"
-    },
-    {
-      "rank": 37,
       "username": "ottarstensvold",
       "games": 1394,
       "rating": 1980,
@@ -299,12 +291,20 @@
       "profile": "https://lichess.org/@/ottarstensvold"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "username": "din_skugga",
       "games": 1390,
       "rating": 2606,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/din_skugga"
+    },
+    {
+      "rank": 38,
+      "username": "aprendiz-de-colegial",
+      "games": 1387,
+      "rating": 2211,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/aprendiz-de-colegial"
     },
     {
       "rank": 39,
@@ -2092,19 +2092,19 @@
     },
     {
       "rank": 262,
-      "username": "micaknez",
-      "games": 823,
-      "rating": 2005,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/micaknez"
-    },
-    {
-      "rank": 263,
       "username": "dark_knight924",
       "games": 823,
       "rating": 1904,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/dark_knight924"
+    },
+    {
+      "rank": 263,
+      "username": "micaknez",
+      "games": 823,
+      "rating": 2005,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/micaknez"
     },
     {
       "rank": 264,
@@ -4060,6 +4060,14 @@
     },
     {
       "rank": 508,
+      "username": "jamesqf12",
+      "games": 662,
+      "rating": 2172,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jamesqf12"
+    },
+    {
+      "rank": 509,
       "username": "mourninstar",
       "games": 662,
       "rating": 1309,
@@ -4067,20 +4075,12 @@
       "profile": "https://lichess.org/@/mourninstar"
     },
     {
-      "rank": 509,
+      "rank": 510,
       "username": "rhon_27",
       "games": 662,
       "rating": 1614,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/rhon_27"
-    },
-    {
-      "rank": 510,
-      "username": "jamesqf12",
-      "games": 662,
-      "rating": 2172,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jamesqf12"
     },
     {
       "rank": 511,
@@ -6148,19 +6148,19 @@
     },
     {
       "rank": 769,
-      "username": "taaaalented",
-      "games": 582,
-      "rating": 2033,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/taaaalented"
-    },
-    {
-      "rank": 770,
       "username": "somedumbguy73",
       "games": 582,
       "rating": 1331,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/somedumbguy73"
+    },
+    {
+      "rank": 770,
+      "username": "taaaalented",
+      "games": 582,
+      "rating": 2033,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/taaaalented"
     },
     {
       "rank": 771,
@@ -6452,6 +6452,14 @@
     },
     {
       "rank": 807,
+      "username": "chessprof2",
+      "games": 566,
+      "rating": 1796,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/chessprof2"
+    },
+    {
+      "rank": 808,
       "username": "christophadam",
       "games": 566,
       "rating": 1911,
@@ -6459,20 +6467,12 @@
       "profile": "https://lichess.org/@/christophadam"
     },
     {
-      "rank": 808,
+      "rank": 809,
       "username": "sme9110",
       "games": 566,
       "rating": 1543,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/sme9110"
-    },
-    {
-      "rank": 809,
-      "username": "chessprof2",
-      "games": 566,
-      "rating": 1796,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/chessprof2"
     },
     {
       "rank": 810,
