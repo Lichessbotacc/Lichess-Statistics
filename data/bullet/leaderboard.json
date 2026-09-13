@@ -669,7 +669,7 @@
     "afernanferlissi": 526,
     "affan123": 17,
     "affanaffan11": 137,
-    "affections": 1657,
+    "affections": 1454,
     "afhvyofhhdb": 114,
     "aflickering": 143,
     "afloatgamer": 70,
@@ -32165,7 +32165,7 @@
     "afernanferlissi": "2026-09-07T03:38:32.033256+00:00",
     "affan123": "2026-09-06T09:06:07.302975+00:00",
     "affanaffan11": "2026-09-05T14:57:28.089262+00:00",
-    "affections": "2026-09-12T15:25:17.055276+00:00",
+    "affections": "2026-09-13T17:17:01.051897+00:00",
     "afhvyofhhdb": "2026-09-08T04:39:02.478733+00:00",
     "aflickering": "2026-09-11T22:35:27.068293+00:00",
     "afloatgamer": "2026-09-08T12:46:40.796766+00:00",
@@ -63113,17 +63113,9 @@
       "username": "cdl15"
     },
     {
-      "games": 1657,
-      "profile": "https://lichess.org/@/affections",
-      "rank": 16,
-      "rating": 1876,
-      "source": "Lobby-Crawl",
-      "username": "affections"
-    },
-    {
       "games": 1647,
       "profile": "https://lichess.org/@/daswinkey",
-      "rank": 17,
+      "rank": 16,
       "rating": 1867,
       "source": "Lobby-Crawl",
       "username": "daswinkey"
@@ -63131,7 +63123,7 @@
     {
       "games": 1622,
       "profile": "https://lichess.org/@/youssef_7490",
-      "rank": 18,
+      "rank": 17,
       "rating": 2560,
       "source": "Lobby-Crawl",
       "username": "youssef_7490"
@@ -63139,7 +63131,7 @@
     {
       "games": 1611,
       "profile": "https://lichess.org/@/han2001",
-      "rank": 19,
+      "rank": 18,
       "rating": 1789,
       "source": "Lobby-Crawl",
       "username": "han2001"
@@ -63147,7 +63139,7 @@
     {
       "games": 1609,
       "profile": "https://lichess.org/@/diagor",
-      "rank": 20,
+      "rank": 19,
       "rating": 2139,
       "source": "Lobby-Crawl",
       "username": "diagor"
@@ -63155,7 +63147,7 @@
     {
       "games": 1601,
       "profile": "https://lichess.org/@/kinkytight",
-      "rank": 21,
+      "rank": 20,
       "rating": 2220,
       "source": "Lobby-Crawl",
       "username": "kinkytight"
@@ -63163,7 +63155,7 @@
     {
       "games": 1593,
       "profile": "https://lichess.org/@/alex_higgins",
-      "rank": 22,
+      "rank": 21,
       "rating": 2391,
       "source": "Lobby-Crawl",
       "username": "alex_higgins"
@@ -63171,7 +63163,7 @@
     {
       "games": 1591,
       "profile": "https://lichess.org/@/b3g3e3",
-      "rank": 23,
+      "rank": 22,
       "rating": 2302,
       "source": "Lobby-Crawl",
       "username": "b3g3e3"
@@ -63179,7 +63171,7 @@
     {
       "games": 1549,
       "profile": "https://lichess.org/@/soyphenomm",
-      "rank": 24,
+      "rank": 23,
       "rating": 2010,
       "source": "Turnier",
       "username": "soyphenomm"
@@ -63187,7 +63179,7 @@
     {
       "games": 1547,
       "profile": "https://lichess.org/@/capitanharlock7",
-      "rank": 25,
+      "rank": 24,
       "rating": 1931,
       "source": "Turnier",
       "username": "capitanharlock7"
@@ -63195,7 +63187,7 @@
     {
       "games": 1546,
       "profile": "https://lichess.org/@/thobisch",
-      "rank": 26,
+      "rank": 25,
       "rating": 2449,
       "source": "Lobby-Crawl",
       "username": "thobisch"
@@ -63203,7 +63195,7 @@
     {
       "games": 1538,
       "profile": "https://lichess.org/@/hamming69",
-      "rank": 27,
+      "rank": 26,
       "rating": 1309,
       "source": "Lobby-Crawl",
       "username": "hamming69"
@@ -63211,7 +63203,7 @@
     {
       "games": 1504,
       "profile": "https://lichess.org/@/nimzo-kenyan",
-      "rank": 28,
+      "rank": 27,
       "rating": 1889,
       "source": "Lobby-Crawl",
       "username": "nimzo-kenyan"
@@ -63219,7 +63211,7 @@
     {
       "games": 1477,
       "profile": "https://lichess.org/@/julianbook",
-      "rank": 29,
+      "rank": 28,
       "rating": 1809,
       "source": "Lobby-Crawl",
       "username": "julianbook"
@@ -63227,10 +63219,18 @@
     {
       "games": 1457,
       "profile": "https://lichess.org/@/cumbane",
-      "rank": 30,
+      "rank": 29,
       "rating": 2234,
       "source": "Lobby-Crawl",
       "username": "cumbane"
+    },
+    {
+      "games": 1454,
+      "profile": "https://lichess.org/@/affections",
+      "rank": 30,
+      "rating": 1876,
+      "source": "Lobby-Crawl",
+      "username": "affections"
     },
     {
       "games": 1448,
@@ -314945,5 +314945,5 @@
       "username": "metehanfc"
     }
   ],
-  "updated_at": "2026-09-13T17:11:48.239558+00:00"
+  "updated_at": "2026-09-13T17:17:01.060815+00:00"
 }
