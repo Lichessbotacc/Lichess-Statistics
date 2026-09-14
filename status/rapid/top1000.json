@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T09:48:51.188052+00:00",
+  "updated_at": "2026-09-14T09:54:40.031539+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -980,14 +980,6 @@
     },
     {
       "rank": 123,
-      "username": "faridovich",
-      "games": 308,
-      "rating": 1304,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/faridovich"
-    },
-    {
-      "rank": 124,
       "username": "gilmergrc",
       "games": 308,
       "rating": 1952,
@@ -995,12 +987,20 @@
       "profile": "https://lichess.org/@/gilmergrc"
     },
     {
-      "rank": 125,
+      "rank": 124,
       "username": "azamatsayetov",
       "games": 307,
       "rating": 1999,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/azamatsayetov"
+    },
+    {
+      "rank": 125,
+      "username": "faridovich",
+      "games": 307,
+      "rating": 1304,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/faridovich"
     },
     {
       "rank": 126,
