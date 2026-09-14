@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T05:44:02.054633+00:00",
+  "updated_at": "2026-09-14T05:50:06.547456+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -300,14 +300,6 @@
     },
     {
       "rank": 38,
-      "username": "kamazets",
-      "games": 863,
-      "rating": 1447,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/kamazets"
-    },
-    {
-      "rank": 39,
       "username": "doruk42",
       "games": 853,
       "rating": 1389,
@@ -315,12 +307,20 @@
       "profile": "https://lichess.org/@/doruk42"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "username": "leogla",
       "games": 848,
       "rating": 2131,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/leogla"
+    },
+    {
+      "rank": 40,
+      "username": "kamazets",
+      "games": 843,
+      "rating": 1447,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/kamazets"
     },
     {
       "rank": 41,
