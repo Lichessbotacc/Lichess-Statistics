@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:01:05.923606+00:00",
+  "updated_at": "2026-09-15T22:06:15.351630+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -716,14 +716,6 @@
     },
     {
       "rank": 90,
-      "username": "schachgenie",
-      "games": 580,
-      "rating": 1830,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/schachgenie"
-    },
-    {
-      "rank": 91,
       "username": "monkeyretta",
       "games": 578,
       "rating": 2114,
@@ -731,7 +723,7 @@
       "profile": "https://lichess.org/@/monkeyretta"
     },
     {
-      "rank": 92,
+      "rank": 91,
       "username": "archaeoadv",
       "games": 577,
       "rating": 1934,
@@ -739,7 +731,7 @@
       "profile": "https://lichess.org/@/archaeoadv"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "username": "bullinks",
       "games": 576,
       "rating": 1477,
@@ -747,12 +739,20 @@
       "profile": "https://lichess.org/@/bullinks"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "username": "m1nds",
       "games": 576,
       "rating": 2556,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/m1nds"
+    },
+    {
+      "rank": 94,
+      "username": "schachgenie",
+      "games": 576,
+      "rating": 1830,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/schachgenie"
     },
     {
       "rank": 95,
