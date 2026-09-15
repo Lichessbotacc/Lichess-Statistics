@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T04:28:44.190550+00:00",
+  "updated_at": "2026-09-15T04:33:44.381295+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -948,14 +948,6 @@
     },
     {
       "rank": 119,
-      "username": "jettery",
-      "games": 1062,
-      "rating": 1107,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jettery"
-    },
-    {
-      "rank": 120,
       "username": "kraynoffsp",
       "games": 1059,
       "rating": 1528,
@@ -963,12 +955,20 @@
       "profile": "https://lichess.org/@/kraynoffsp"
     },
     {
-      "rank": 121,
+      "rank": 120,
       "username": "mofaq",
       "games": 1059,
       "rating": 1320,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mofaq"
+    },
+    {
+      "rank": 121,
+      "username": "jettery",
+      "games": 1054,
+      "rating": 1107,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/jettery"
     },
     {
       "rank": 122,
