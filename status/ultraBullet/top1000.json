@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T06:44:50.022918+00:00",
+  "updated_at": "2026-09-16T06:52:09.886510+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -332,14 +332,6 @@
     },
     {
       "rank": 42,
-      "username": "itzorg",
-      "games": 847,
-      "rating": 2259,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/itzorg"
-    },
-    {
-      "rank": 43,
       "username": "mache80",
       "games": 843,
       "rating": 1362,
@@ -347,7 +339,7 @@
       "profile": "https://lichess.org/@/mache80"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "username": "babymagnus_boss_2016",
       "games": 841,
       "rating": 1919,
@@ -355,7 +347,7 @@
       "profile": "https://lichess.org/@/babymagnus_boss_2016"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "username": "desperado64",
       "games": 835,
       "rating": 1950,
@@ -363,7 +355,7 @@
       "profile": "https://lichess.org/@/desperado64"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "username": "u1z1a1y1",
       "games": 835,
       "rating": 1583,
@@ -371,7 +363,7 @@
       "profile": "https://lichess.org/@/u1z1a1y1"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "username": "timobjornson",
       "games": 798,
       "rating": 1830,
@@ -379,7 +371,7 @@
       "profile": "https://lichess.org/@/timobjornson"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "username": "winyou",
       "games": 790,
       "rating": 2125,
@@ -387,7 +379,7 @@
       "profile": "https://lichess.org/@/winyou"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "username": "passerby_sa",
       "games": 783,
       "rating": 1824,
@@ -395,12 +387,20 @@
       "profile": "https://lichess.org/@/passerby_sa"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "username": "mrsst",
       "games": 782,
       "rating": 1846,
       "source": "Turnier",
       "profile": "https://lichess.org/@/mrsst"
+    },
+    {
+      "rank": 50,
+      "username": "raadinnoori",
+      "games": 782,
+      "rating": 1797,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/raadinnoori"
     },
     {
       "rank": 51,
@@ -500,6 +500,14 @@
     },
     {
       "rank": 63,
+      "username": "itzorg",
+      "games": 703,
+      "rating": 2259,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/itzorg"
+    },
+    {
+      "rank": 64,
       "username": "marwan94",
       "games": 702,
       "rating": 1656,
@@ -507,20 +515,12 @@
       "profile": "https://lichess.org/@/marwan94"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "username": "leogla",
       "games": 699,
       "rating": 2131,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/leogla"
-    },
-    {
-      "rank": 65,
-      "username": "raadinnoori",
-      "games": 699,
-      "rating": 1797,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/raadinnoori"
     },
     {
       "rank": 66,
