@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:09:42.155445+00:00",
+  "updated_at": "2026-09-16T20:18:09.126086+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -76,14 +76,6 @@
     },
     {
       "rank": 10,
-      "username": "parpalac",
-      "games": 1436,
-      "rating": 1435,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/parpalac"
-    },
-    {
-      "rank": 11,
       "username": "beatles_21",
       "games": 1354,
       "rating": 2142,
@@ -91,7 +83,7 @@
       "profile": "https://lichess.org/@/beatles_21"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "cristianoronaldo_111",
       "games": 1333,
       "rating": 2075,
@@ -99,7 +91,7 @@
       "profile": "https://lichess.org/@/cristianoronaldo_111"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "username": "anemoschess",
       "games": 1331,
       "rating": 1350,
@@ -107,7 +99,7 @@
       "profile": "https://lichess.org/@/anemoschess"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "username": "gt2rsweissach",
       "games": 1330,
       "rating": 2470,
@@ -115,7 +107,7 @@
       "profile": "https://lichess.org/@/gt2rsweissach"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "username": "innuend0",
       "games": 1271,
       "rating": 1490,
@@ -123,12 +115,20 @@
       "profile": "https://lichess.org/@/innuend0"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "username": "darkoncrack",
       "games": 1210,
       "rating": 2416,
       "source": "Turnier",
       "profile": "https://lichess.org/@/darkoncrack"
+    },
+    {
+      "rank": 16,
+      "username": "parpalac",
+      "games": 1188,
+      "rating": 1435,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/parpalac"
     },
     {
       "rank": 17,
