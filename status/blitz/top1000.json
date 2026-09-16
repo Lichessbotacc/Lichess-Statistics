@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T00:34:30.009729+00:00",
+  "updated_at": "2026-09-16T00:39:55.298981+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -53,7 +53,7 @@
     {
       "rank": 7,
       "username": "german11",
-      "games": 999,
+      "games": 1025,
       "rating": 1248,
       "source": "Turnier",
       "profile": "https://lichess.org/@/german11"
@@ -108,14 +108,6 @@
     },
     {
       "rank": 14,
-      "username": "fast_money",
-      "games": 905,
-      "rating": 1818,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/fast_money"
-    },
-    {
-      "rank": 15,
       "username": "carlosgomesbarbosa",
       "games": 892,
       "rating": 1477,
@@ -123,12 +115,20 @@
       "profile": "https://lichess.org/@/carlosgomesbarbosa"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "username": "malqurashawi",
       "games": 886,
       "rating": 1477,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/malqurashawi"
+    },
+    {
+      "rank": 16,
+      "username": "fast_money",
+      "games": 874,
+      "rating": 1818,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/fast_money"
     },
     {
       "rank": 17,
