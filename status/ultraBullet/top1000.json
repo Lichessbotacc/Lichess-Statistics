@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:46:59.529656+00:00",
+  "updated_at": "2026-09-16T22:52:49.049141+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1220,6 +1220,14 @@
     },
     {
       "rank": 153,
+      "username": "swastikaggarwal",
+      "games": 450,
+      "rating": 1842,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/swastikaggarwal"
+    },
+    {
+      "rank": 154,
       "username": "jsb_1685",
       "games": 447,
       "rating": 1499,
@@ -1227,7 +1235,7 @@
       "profile": "https://lichess.org/@/jsb_1685"
     },
     {
-      "rank": 154,
+      "rank": 155,
       "username": "secantfx",
       "games": 447,
       "rating": 1696,
@@ -1235,7 +1243,7 @@
       "profile": "https://lichess.org/@/secantfx"
     },
     {
-      "rank": 155,
+      "rank": 156,
       "username": "pasebri",
       "games": 444,
       "rating": 2090,
@@ -1243,20 +1251,12 @@
       "profile": "https://lichess.org/@/pasebri"
     },
     {
-      "rank": 156,
+      "rank": 157,
       "username": "itbryan",
       "games": 443,
       "rating": 1932,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/itbryan"
-    },
-    {
-      "rank": 157,
-      "username": "swastikaggarwal",
-      "games": 441,
-      "rating": 1842,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/swastikaggarwal"
     },
     {
       "rank": 158,
@@ -4844,14 +4844,6 @@
     },
     {
       "rank": 606,
-      "username": "kidcanvas255",
-      "games": 170,
-      "rating": 1104,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/kidcanvas255"
-    },
-    {
-      "rank": 607,
       "username": "sing_2010",
       "games": 170,
       "rating": 2128,
@@ -4859,7 +4851,7 @@
       "profile": "https://lichess.org/@/sing_2010"
     },
     {
-      "rank": 608,
+      "rank": 607,
       "username": "duonelinxi",
       "games": 169,
       "rating": 2410,
@@ -4867,7 +4859,7 @@
       "profile": "https://lichess.org/@/duonelinxi"
     },
     {
-      "rank": 609,
+      "rank": 608,
       "username": "iamfromindia25",
       "games": 169,
       "rating": 1704,
@@ -4875,7 +4867,7 @@
       "profile": "https://lichess.org/@/iamfromindia25"
     },
     {
-      "rank": 610,
+      "rank": 609,
       "username": "leonardo-llagas_2008",
       "games": 169,
       "rating": 1984,
@@ -4883,12 +4875,20 @@
       "profile": "https://lichess.org/@/leonardo-llagas_2008"
     },
     {
-      "rank": 611,
+      "rank": 610,
       "username": "mbd123ok123",
       "games": 169,
       "rating": 2059,
       "source": "Turnier",
       "profile": "https://lichess.org/@/mbd123ok123"
+    },
+    {
+      "rank": 611,
+      "username": "kidcanvas255",
+      "games": 168,
+      "rating": 1104,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/kidcanvas255"
     },
     {
       "rank": 612,
