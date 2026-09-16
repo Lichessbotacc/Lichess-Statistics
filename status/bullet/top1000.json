@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:46:25.456982+00:00",
+  "updated_at": "2026-09-16T22:52:05.166976+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1588,19 +1588,19 @@
     },
     {
       "rank": 199,
-      "username": "rfhfcb",
-      "games": 906,
-      "rating": 1865,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/rfhfcb"
-    },
-    {
-      "rank": 200,
       "username": "eustasis",
       "games": 906,
       "rating": 2357,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/eustasis"
+    },
+    {
+      "rank": 200,
+      "username": "rfhfcb",
+      "games": 906,
+      "rating": 1865,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/rfhfcb"
     },
     {
       "rank": 201,
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "gena1971z",
+      "games": 548,
+      "rating": 1318,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/gena1971z"
+    },
+    {
+      "rank": 999,
       "username": "mico_jevdjo44",
       "games": 548,
       "rating": 1911,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/mico_jevdjo44"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "msdazr",
       "games": 548,
       "rating": 2198,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/msdazr"
-    },
-    {
-      "rank": 1000,
-      "username": "tacticsman",
-      "games": 548,
-      "rating": 2036,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/tacticsman"
     }
   ]
 }
