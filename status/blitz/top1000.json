@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T06:08:25.177034+00:00",
+  "updated_at": "2026-09-17T06:14:05.254697+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -180,14 +180,6 @@
     },
     {
       "rank": 23,
-      "username": "meerbos14",
-      "games": 846,
-      "rating": 2145,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/meerbos14"
-    },
-    {
-      "rank": 24,
       "username": "iord-navro",
       "games": 842,
       "rating": 1460,
@@ -195,12 +187,20 @@
       "profile": "https://lichess.org/@/iord-navro"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "username": "mrosten",
       "games": 836,
       "rating": 1056,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mrosten"
+    },
+    {
+      "rank": 25,
+      "username": "meerbos14",
+      "games": 818,
+      "rating": 2145,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/meerbos14"
     },
     {
       "rank": 26,
