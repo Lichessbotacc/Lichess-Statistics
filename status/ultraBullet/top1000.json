@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:50:46.953183+00:00",
+  "updated_at": "2026-09-17T11:56:54.340588+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -148,19 +148,19 @@
     },
     {
       "rank": 19,
+      "username": "gmud",
+      "games": 1134,
+      "rating": 1570,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gmud"
+    },
+    {
+      "rank": 20,
       "username": "sling16",
       "games": 1127,
       "rating": 1941,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/sling16"
-    },
-    {
-      "rank": 20,
-      "username": "gmud",
-      "games": 1118,
-      "rating": 1570,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gmud"
     },
     {
       "rank": 21,
@@ -1052,14 +1052,6 @@
     },
     {
       "rank": 132,
-      "username": "youthcoaching",
-      "games": 471,
-      "rating": 1634,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/youthcoaching"
-    },
-    {
-      "rank": 133,
       "username": "valentin7064",
       "games": 469,
       "rating": 1543,
@@ -1067,7 +1059,7 @@
       "profile": "https://lichess.org/@/valentin7064"
     },
     {
-      "rank": 134,
+      "rank": 133,
       "username": "egorpro777",
       "games": 468,
       "rating": 1775,
@@ -1075,7 +1067,7 @@
       "profile": "https://lichess.org/@/egorpro777"
     },
     {
-      "rank": 135,
+      "rank": 134,
       "username": "manojsiyag09",
       "games": 466,
       "rating": 1453,
@@ -1083,7 +1075,7 @@
       "profile": "https://lichess.org/@/manojsiyag09"
     },
     {
-      "rank": 136,
+      "rank": 135,
       "username": "pruki",
       "games": 466,
       "rating": 1589,
@@ -1091,7 +1083,7 @@
       "profile": "https://lichess.org/@/pruki"
     },
     {
-      "rank": 137,
+      "rank": 136,
       "username": "eeaguitarn1",
       "games": 462,
       "rating": 1766,
@@ -1099,7 +1091,7 @@
       "profile": "https://lichess.org/@/eeaguitarn1"
     },
     {
-      "rank": 138,
+      "rank": 137,
       "username": "gee_2006",
       "games": 462,
       "rating": 1771,
@@ -1107,7 +1099,7 @@
       "profile": "https://lichess.org/@/gee_2006"
     },
     {
-      "rank": 139,
+      "rank": 138,
       "username": "maybe_xd",
       "games": 461,
       "rating": 2564,
@@ -1115,7 +1107,7 @@
       "profile": "https://lichess.org/@/maybe_xd"
     },
     {
-      "rank": 140,
+      "rank": 139,
       "username": "snowmountain17",
       "games": 461,
       "rating": 2029,
@@ -1123,7 +1115,7 @@
       "profile": "https://lichess.org/@/snowmountain17"
     },
     {
-      "rank": 141,
+      "rank": 140,
       "username": "roaringroars",
       "games": 457,
       "rating": 2066,
@@ -1131,7 +1123,7 @@
       "profile": "https://lichess.org/@/roaringroars"
     },
     {
-      "rank": 142,
+      "rank": 141,
       "username": "voffk",
       "games": 457,
       "rating": 1922,
@@ -1139,7 +1131,7 @@
       "profile": "https://lichess.org/@/voffk"
     },
     {
-      "rank": 143,
+      "rank": 142,
       "username": "kemalisturk",
       "games": 456,
       "rating": 1951,
@@ -1147,7 +1139,7 @@
       "profile": "https://lichess.org/@/kemalisturk"
     },
     {
-      "rank": 144,
+      "rank": 143,
       "username": "swastikaggarwal",
       "games": 450,
       "rating": 1842,
@@ -1155,7 +1147,7 @@
       "profile": "https://lichess.org/@/swastikaggarwal"
     },
     {
-      "rank": 145,
+      "rank": 144,
       "username": "secantfx",
       "games": 447,
       "rating": 1696,
@@ -1163,7 +1155,7 @@
       "profile": "https://lichess.org/@/secantfx"
     },
     {
-      "rank": 146,
+      "rank": 145,
       "username": "alekseyntv",
       "games": 445,
       "rating": 2205,
@@ -1171,7 +1163,7 @@
       "profile": "https://lichess.org/@/alekseyntv"
     },
     {
-      "rank": 147,
+      "rank": 146,
       "username": "kamazets",
       "games": 444,
       "rating": 1447,
@@ -1179,12 +1171,20 @@
       "profile": "https://lichess.org/@/kamazets"
     },
     {
-      "rank": 148,
+      "rank": 147,
       "username": "itbryan",
       "games": 443,
       "rating": 1932,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/itbryan"
+    },
+    {
+      "rank": 148,
+      "username": "youthcoaching",
+      "games": 443,
+      "rating": 1634,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/youthcoaching"
     },
     {
       "rank": 149,
