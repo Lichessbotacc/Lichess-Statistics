@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:49:50.004803+00:00",
+  "updated_at": "2026-09-17T13:59:08.353809+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -284,14 +284,6 @@
     },
     {
       "rank": 36,
-      "username": "julymor",
-      "games": 1500,
-      "rating": 1801,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/julymor"
-    },
-    {
-      "rank": 37,
       "username": "julianbook",
       "games": 1477,
       "rating": 1809,
@@ -299,7 +291,7 @@
       "profile": "https://lichess.org/@/julianbook"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "username": "patzercro",
       "games": 1463,
       "rating": 2170,
@@ -307,7 +299,7 @@
       "profile": "https://lichess.org/@/patzercro"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "username": "cumbane",
       "games": 1457,
       "rating": 2234,
@@ -315,7 +307,7 @@
       "profile": "https://lichess.org/@/cumbane"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "username": "drshial",
       "games": 1446,
       "rating": 1632,
@@ -323,7 +315,7 @@
       "profile": "https://lichess.org/@/drshial"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "username": "rupic",
       "games": 1427,
       "rating": 2479,
@@ -331,12 +323,20 @@
       "profile": "https://lichess.org/@/rupic"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "username": "usturaci",
       "games": 1405,
       "rating": 1670,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/usturaci"
+    },
+    {
+      "rank": 42,
+      "username": "julymor",
+      "games": 1401,
+      "rating": 1801,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/julymor"
     },
     {
       "rank": 43,
