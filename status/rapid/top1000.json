@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:15:20.403219+00:00",
+  "updated_at": "2026-09-17T23:20:21.427251+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,6 +7972,14 @@
     },
     {
       "rank": 997,
+      "username": "carpouf",
+      "games": 193,
+      "rating": 1700,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/carpouf"
+    },
+    {
+      "rank": 998,
       "username": "cekpet_teppopa",
       "games": 193,
       "rating": 1617,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/cekpet_teppopa"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "fermingomez1939",
       "games": 193,
       "rating": 1465,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/fermingomez1939"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "iamtm00",
       "games": 193,
       "rating": 1636,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/iamtm00"
-    },
-    {
-      "rank": 1000,
-      "username": "jacheng_ginchipa",
-      "games": 193,
-      "rating": 1923,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/jacheng_ginchipa"
     }
   ]
 }
