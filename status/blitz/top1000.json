@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:48:50.301334+00:00",
+  "updated_at": "2026-09-17T11:53:57.907291+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,14 +7972,6 @@
     },
     {
       "rank": 997,
-      "username": "zoltan007",
-      "games": 340,
-      "rating": 1702,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/zoltan007"
-    },
-    {
-      "rank": 998,
       "username": "aimen1989",
       "games": 339,
       "rating": 1578,
@@ -7987,7 +7979,7 @@
       "profile": "https://lichess.org/@/aimen1989"
     },
     {
-      "rank": 999,
+      "rank": 998,
       "username": "bandik",
       "games": 339,
       "rating": 1886,
@@ -7995,12 +7987,20 @@
       "profile": "https://lichess.org/@/bandik"
     },
     {
-      "rank": 1000,
+      "rank": 999,
       "username": "generaltlk",
       "games": 339,
       "rating": 1476,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/generaltlk"
+    },
+    {
+      "rank": 1000,
+      "username": "grandmorie",
+      "games": 339,
+      "rating": 2205,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/grandmorie"
     }
   ]
 }
