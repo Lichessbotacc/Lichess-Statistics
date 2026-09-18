@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T09:10:36.237257+00:00",
+  "updated_at": "2026-09-18T09:15:37.002054+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1684,14 +1684,6 @@
     },
     {
       "rank": 211,
-      "username": "notfairbm",
-      "games": 379,
-      "rating": 1912,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/notfairbm"
-    },
-    {
-      "rank": 212,
       "username": "c_cbd",
       "games": 378,
       "rating": 2001,
@@ -1699,12 +1691,20 @@
       "profile": "https://lichess.org/@/c_cbd"
     },
     {
-      "rank": 213,
+      "rank": 212,
       "username": "alphatik",
       "games": 377,
       "rating": 2243,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/alphatik"
+    },
+    {
+      "rank": 213,
+      "username": "notfairbm",
+      "games": 377,
+      "rating": 1912,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/notfairbm"
     },
     {
       "rank": 214,
