@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T13:13:58.067766+00:00",
+  "updated_at": "2026-09-18T13:19:02.208190+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -196,14 +196,6 @@
     },
     {
       "rank": 25,
-      "username": "meerbos14",
-      "games": 818,
-      "rating": 2145,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/meerbos14"
-    },
-    {
-      "rank": 26,
       "username": "fast_money",
       "games": 816,
       "rating": 1818,
@@ -211,7 +203,7 @@
       "profile": "https://lichess.org/@/fast_money"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "username": "ars_tigerovchess",
       "games": 805,
       "rating": 2016,
@@ -219,7 +211,7 @@
       "profile": "https://lichess.org/@/ars_tigerovchess"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "username": "crbmsm",
       "games": 798,
       "rating": 2125,
@@ -227,7 +219,7 @@
       "profile": "https://lichess.org/@/crbmsm"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "username": "mattmachtmatt",
       "games": 795,
       "rating": 2157,
@@ -235,7 +227,7 @@
       "profile": "https://lichess.org/@/mattmachtmatt"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "username": "lemil1960",
       "games": 791,
       "rating": 1967,
@@ -243,7 +235,7 @@
       "profile": "https://lichess.org/@/lemil1960"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "username": "webwebweb",
       "games": 781,
       "rating": 2107,
@@ -251,7 +243,7 @@
       "profile": "https://lichess.org/@/webwebweb"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "username": "slavechessdido",
       "games": 778,
       "rating": 1793,
@@ -259,7 +251,7 @@
       "profile": "https://lichess.org/@/slavechessdido"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "username": "cankul",
       "games": 773,
       "rating": 2179,
@@ -267,7 +259,7 @@
       "profile": "https://lichess.org/@/cankul"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "username": "weteroc54",
       "games": 773,
       "rating": 1895,
@@ -275,7 +267,7 @@
       "profile": "https://lichess.org/@/weteroc54"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "username": "alanpiper1947",
       "games": 762,
       "rating": 1996,
@@ -283,7 +275,7 @@
       "profile": "https://lichess.org/@/alanpiper1947"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "username": "bat_toni",
       "games": 753,
       "rating": 1431,
@@ -291,7 +283,7 @@
       "profile": "https://lichess.org/@/bat_toni"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "username": "dareen_pman",
       "games": 751,
       "rating": 2076,
@@ -299,7 +291,7 @@
       "profile": "https://lichess.org/@/dareen_pman"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "username": "arashgarash",
       "games": 747,
       "rating": 1799,
@@ -307,7 +299,7 @@
       "profile": "https://lichess.org/@/arashgarash"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "username": "laubblatt25",
       "games": 746,
       "rating": 1718,
@@ -315,7 +307,7 @@
       "profile": "https://lichess.org/@/laubblatt25"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "username": "delfinaslann",
       "games": 745,
       "rating": 1803,
@@ -323,7 +315,7 @@
       "profile": "https://lichess.org/@/delfinaslann"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "username": "neftegor",
       "games": 740,
       "rating": 2507,
@@ -331,7 +323,7 @@
       "profile": "https://lichess.org/@/neftegor"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "username": "idelb777",
       "games": 739,
       "rating": 2006,
@@ -339,7 +331,7 @@
       "profile": "https://lichess.org/@/idelb777"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "username": "jgarvik",
       "games": 732,
       "rating": 1941,
@@ -347,7 +339,7 @@
       "profile": "https://lichess.org/@/jgarvik"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "username": "tukoft",
       "games": 731,
       "rating": 1776,
@@ -355,7 +347,7 @@
       "profile": "https://lichess.org/@/tukoft"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "username": "jotha7480",
       "games": 728,
       "rating": 2050,
@@ -363,12 +355,20 @@
       "profile": "https://lichess.org/@/jotha7480"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "username": "ghanu123",
       "games": 727,
       "rating": 1802,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/ghanu123"
+    },
+    {
+      "rank": 46,
+      "username": "meerbos14",
+      "games": 724,
+      "rating": 2145,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/meerbos14"
     },
     {
       "rank": 47,
