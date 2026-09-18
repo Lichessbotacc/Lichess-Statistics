@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T12:53:44.564072+00:00",
+  "updated_at": "2026-09-18T12:58:51.338764+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -52,14 +52,6 @@
     },
     {
       "rank": 7,
-      "username": "deie",
-      "games": 1075,
-      "rating": 1672,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/deie"
-    },
-    {
-      "rank": 8,
       "username": "garry1304",
       "games": 1067,
       "rating": 1952,
@@ -67,12 +59,20 @@
       "profile": "https://lichess.org/@/garry1304"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "username": "dnash",
       "games": 1032,
       "rating": 2332,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/dnash"
+    },
+    {
+      "rank": 9,
+      "username": "deie",
+      "games": 1021,
+      "rating": 1672,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/deie"
     },
     {
       "rank": 10,
