@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:20:51.217720+00:00",
+  "updated_at": "2026-09-19T20:26:20.396141+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -452,14 +452,6 @@
     },
     {
       "rank": 57,
-      "username": "regulater",
-      "games": 760,
-      "rating": 1992,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/regulater"
-    },
-    {
-      "rank": 58,
       "username": "archaeoadv",
       "games": 757,
       "rating": 1934,
@@ -467,7 +459,7 @@
       "profile": "https://lichess.org/@/archaeoadv"
     },
     {
-      "rank": 59,
+      "rank": 58,
       "username": "verhappyfamoudreamer",
       "games": 751,
       "rating": 2213,
@@ -475,7 +467,7 @@
       "profile": "https://lichess.org/@/verhappyfamoudreamer"
     },
     {
-      "rank": 60,
+      "rank": 59,
       "username": "hihihaahaha",
       "games": 746,
       "rating": 1663,
@@ -483,7 +475,7 @@
       "profile": "https://lichess.org/@/hihihaahaha"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "username": "ezrg94",
       "games": 740,
       "rating": 1699,
@@ -491,7 +483,7 @@
       "profile": "https://lichess.org/@/ezrg94"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "username": "raadinnoori",
       "games": 736,
       "rating": 1797,
@@ -499,7 +491,7 @@
       "profile": "https://lichess.org/@/raadinnoori"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "themastermind_007",
       "games": 727,
       "rating": 1903,
@@ -507,7 +499,7 @@
       "profile": "https://lichess.org/@/themastermind_007"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "username": "ricardomoreiro",
       "games": 725,
       "rating": 1804,
@@ -515,12 +507,20 @@
       "profile": "https://lichess.org/@/ricardomoreiro"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "username": "pouria7697",
       "games": 721,
       "rating": 1962,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/pouria7697"
+    },
+    {
+      "rank": 65,
+      "username": "regulater",
+      "games": 718,
+      "rating": 1992,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/regulater"
     },
     {
       "rank": 66,
@@ -1340,6 +1340,14 @@
     },
     {
       "rank": 168,
+      "username": "almanac71",
+      "games": 438,
+      "rating": 2030,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/almanac71"
+    },
+    {
+      "rank": 169,
       "username": "belikemagnus12",
       "games": 438,
       "rating": 1862,
@@ -1347,7 +1355,7 @@
       "profile": "https://lichess.org/@/belikemagnus12"
     },
     {
-      "rank": 169,
+      "rank": 170,
       "username": "grisha_pauli",
       "games": 438,
       "rating": 1717,
@@ -1355,7 +1363,7 @@
       "profile": "https://lichess.org/@/grisha_pauli"
     },
     {
-      "rank": 170,
+      "rank": 171,
       "username": "m1tsuke",
       "games": 438,
       "rating": 1884,
@@ -1363,7 +1371,7 @@
       "profile": "https://lichess.org/@/m1tsuke"
     },
     {
-      "rank": 171,
+      "rank": 172,
       "username": "phoenixverwin",
       "games": 437,
       "rating": 1504,
@@ -1371,7 +1379,7 @@
       "profile": "https://lichess.org/@/phoenixverwin"
     },
     {
-      "rank": 172,
+      "rank": 173,
       "username": "the_governorx",
       "games": 437,
       "rating": 1748,
@@ -1379,7 +1387,7 @@
       "profile": "https://lichess.org/@/the_governorx"
     },
     {
-      "rank": 173,
+      "rank": 174,
       "username": "baniyaaadmihoon",
       "games": 436,
       "rating": 1901,
@@ -1387,7 +1395,7 @@
       "profile": "https://lichess.org/@/baniyaaadmihoon"
     },
     {
-      "rank": 174,
+      "rank": 175,
       "username": "winyou",
       "games": 436,
       "rating": 2125,
@@ -1395,7 +1403,7 @@
       "profile": "https://lichess.org/@/winyou"
     },
     {
-      "rank": 175,
+      "rank": 176,
       "username": "kailasnathd",
       "games": 435,
       "rating": 1336,
@@ -1403,7 +1411,7 @@
       "profile": "https://lichess.org/@/kailasnathd"
     },
     {
-      "rank": 176,
+      "rank": 177,
       "username": "hajime-no-takamura",
       "games": 432,
       "rating": 2317,
@@ -1411,20 +1419,12 @@
       "profile": "https://lichess.org/@/hajime-no-takamura"
     },
     {
-      "rank": 177,
+      "rank": 178,
       "username": "youtube_chesspion96",
       "games": 432,
       "rating": 2583,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/youtube_chesspion96"
-    },
-    {
-      "rank": 178,
-      "username": "almanac71",
-      "games": 429,
-      "rating": 2030,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/almanac71"
     },
     {
       "rank": 179,
