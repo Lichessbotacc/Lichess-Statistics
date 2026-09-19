@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T05:03:46.428052+00:00",
+  "updated_at": "2026-09-19T05:08:48.984971+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -124,14 +124,6 @@
     },
     {
       "rank": 16,
-      "username": "gmud",
-      "games": 1093,
-      "rating": 1570,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gmud"
-    },
-    {
-      "rank": 17,
       "username": "mataberk",
       "games": 1091,
       "rating": 2024,
@@ -139,7 +131,7 @@
       "profile": "https://lichess.org/@/mataberk"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "username": "hihellohey",
       "games": 1067,
       "rating": 1764,
@@ -147,12 +139,20 @@
       "profile": "https://lichess.org/@/hihellohey"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "username": "fantom2234",
       "games": 1063,
       "rating": 2106,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/fantom2234"
+    },
+    {
+      "rank": 19,
+      "username": "gmud",
+      "games": 1049,
+      "rating": 1570,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gmud"
     },
     {
       "rank": 20,
