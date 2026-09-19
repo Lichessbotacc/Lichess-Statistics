@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:43:09.983872+00:00",
+  "updated_at": "2026-09-19T08:50:03.388839+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -220,6 +220,14 @@
     },
     {
       "rank": 28,
+      "username": "chrisxz33",
+      "games": 920,
+      "rating": 2071,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/chrisxz33"
+    },
+    {
+      "rank": 29,
       "username": "anemoschess",
       "games": 916,
       "rating": 1350,
@@ -227,7 +235,7 @@
       "profile": "https://lichess.org/@/anemoschess"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "username": "chalenger2030",
       "games": 906,
       "rating": 1902,
@@ -235,7 +243,7 @@
       "profile": "https://lichess.org/@/chalenger2030"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "username": "gepard2014",
       "games": 899,
       "rating": 2471,
@@ -243,7 +251,7 @@
       "profile": "https://lichess.org/@/gepard2014"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "username": "davidtao2333333",
       "games": 896,
       "rating": 1808,
@@ -251,7 +259,7 @@
       "profile": "https://lichess.org/@/davidtao2333333"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "username": "schachgenie",
       "games": 876,
       "rating": 1830,
@@ -259,7 +267,7 @@
       "profile": "https://lichess.org/@/schachgenie"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "username": "nathanael01",
       "games": 871,
       "rating": 2114,
@@ -267,7 +275,7 @@
       "profile": "https://lichess.org/@/nathanael01"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "username": "marwan94",
       "games": 865,
       "rating": 1656,
@@ -275,7 +283,7 @@
       "profile": "https://lichess.org/@/marwan94"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "username": "vasquez3096",
       "games": 840,
       "rating": 972,
@@ -283,7 +291,7 @@
       "profile": "https://lichess.org/@/vasquez3096"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "username": "cinekk5",
       "games": 837,
       "rating": 1778,
@@ -291,7 +299,7 @@
       "profile": "https://lichess.org/@/cinekk5"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "username": "dmitrj19",
       "games": 819,
       "rating": 1762,
@@ -299,7 +307,7 @@
       "profile": "https://lichess.org/@/dmitrj19"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "username": "gt2rsweissach",
       "games": 810,
       "rating": 2470,
@@ -307,7 +315,7 @@
       "profile": "https://lichess.org/@/gt2rsweissach"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "username": "archaeoadv",
       "games": 804,
       "rating": 1934,
@@ -315,7 +323,7 @@
       "profile": "https://lichess.org/@/archaeoadv"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "username": "darkoncrack",
       "games": 804,
       "rating": 2416,
@@ -323,20 +331,12 @@
       "profile": "https://lichess.org/@/darkoncrack"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "username": "leeuw7",
       "games": 798,
       "rating": 1428,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/leeuw7"
-    },
-    {
-      "rank": 42,
-      "username": "chrisxz33",
-      "games": 796,
-      "rating": 2071,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/chrisxz33"
     },
     {
       "rank": 43,
@@ -1452,14 +1452,6 @@
     },
     {
       "rank": 182,
-      "username": "macmaman",
-      "games": 418,
-      "rating": 1228,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/macmaman"
-    },
-    {
-      "rank": 183,
       "username": "swastikaggarwal",
       "games": 417,
       "rating": 1842,
@@ -1467,12 +1459,20 @@
       "profile": "https://lichess.org/@/swastikaggarwal"
     },
     {
-      "rank": 184,
+      "rank": 183,
       "username": "anonymous_xx7",
       "games": 416,
       "rating": 2074,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/anonymous_xx7"
+    },
+    {
+      "rank": 184,
+      "username": "macmaman",
+      "games": 416,
+      "rating": 1228,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/macmaman"
     },
     {
       "rank": 185,
