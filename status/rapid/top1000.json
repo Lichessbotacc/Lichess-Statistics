@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:52:21.864571+00:00",
+  "updated_at": "2026-09-19T03:57:22.484741+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,6 +7972,14 @@
     },
     {
       "rank": 997,
+      "username": "hegesanyi",
+      "games": 194,
+      "rating": 1883,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/hegesanyi"
+    },
+    {
+      "rank": 998,
       "username": "jagdish197405",
       "games": 194,
       "rating": 1824,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/jagdish197405"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "jcrbeltran",
       "games": 194,
       "rating": 1552,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/jcrbeltran"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "kgb-007",
       "games": 194,
       "rating": 1515,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kgb-007"
-    },
-    {
-      "rank": 1000,
-      "username": "m_tashpour",
-      "games": 194,
-      "rating": 1184,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/m_tashpour"
     }
   ]
 }
