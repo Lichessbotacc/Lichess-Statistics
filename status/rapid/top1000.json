@@ -1,17 +1,9 @@
 {
-  "updated_at": "2026-09-19T22:50:05.374062+00:00",
+  "updated_at": "2026-09-19T22:55:05.579613+00:00",
   "since_days": 7,
   "top10": [
     {
       "rank": 1,
-      "username": "frihhiwheri",
-      "games": 625,
-      "rating": 1656,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/frihhiwheri"
-    },
-    {
-      "rank": 2,
       "username": "lukatoyboy",
       "games": 618,
       "rating": 1482,
@@ -19,7 +11,7 @@
       "profile": "https://lichess.org/@/lukatoyboy"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "username": "viktor290464",
       "games": 600,
       "rating": 1374,
@@ -27,12 +19,20 @@
       "profile": "https://lichess.org/@/viktor290464"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "username": "asmahmoukades",
       "games": 578,
       "rating": 1975,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/asmahmoukades"
+    },
+    {
+      "rank": 4,
+      "username": "frihhiwheri",
+      "games": 575,
+      "rating": 1656,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/frihhiwheri"
     },
     {
       "rank": 5,
