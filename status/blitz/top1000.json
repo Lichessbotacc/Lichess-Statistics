@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:15:53.914699+00:00",
+  "updated_at": "2026-09-20T01:20:55.561881+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1644,14 +1644,6 @@
     },
     {
       "rank": 206,
-      "username": "ast2013",
-      "games": 529,
-      "rating": 1846,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/ast2013"
-    },
-    {
-      "rank": 207,
       "username": "abbath24",
       "games": 528,
       "rating": 1610,
@@ -1659,7 +1651,7 @@
       "profile": "https://lichess.org/@/abbath24"
     },
     {
-      "rank": 208,
+      "rank": 207,
       "username": "juma4sho",
       "games": 528,
       "rating": 2071,
@@ -1667,12 +1659,20 @@
       "profile": "https://lichess.org/@/juma4sho"
     },
     {
-      "rank": 209,
+      "rank": 208,
       "username": "princeoriaku",
       "games": 528,
       "rating": 1764,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/princeoriaku"
+    },
+    {
+      "rank": 209,
+      "username": "ast2013",
+      "games": 521,
+      "rating": 1846,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/ast2013"
     },
     {
       "rank": 210,
