@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:42:48.210698+00:00",
+  "updated_at": "2026-09-20T16:47:52.719913+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -6892,14 +6892,6 @@
     },
     {
       "rank": 862,
-      "username": "tarigan_slow",
-      "games": 607,
-      "rating": 2188,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/tarigan_slow"
-    },
-    {
-      "rank": 863,
       "username": "arman-avdalyan",
       "games": 606,
       "rating": 2669,
@@ -6907,7 +6899,7 @@
       "profile": "https://lichess.org/@/arman-avdalyan"
     },
     {
-      "rank": 864,
+      "rank": 863,
       "username": "milalao",
       "games": 606,
       "rating": 1855,
@@ -6915,7 +6907,7 @@
       "profile": "https://lichess.org/@/milalao"
     },
     {
-      "rank": 865,
+      "rank": 864,
       "username": "nezevaj",
       "games": 606,
       "rating": 1312,
@@ -6923,7 +6915,7 @@
       "profile": "https://lichess.org/@/nezevaj"
     },
     {
-      "rank": 866,
+      "rank": 865,
       "username": "prof-osvaldo",
       "games": 606,
       "rating": 2003,
@@ -6931,7 +6923,7 @@
       "profile": "https://lichess.org/@/prof-osvaldo"
     },
     {
-      "rank": 867,
+      "rank": 866,
       "username": "agente_sur",
       "games": 605,
       "rating": 2176,
@@ -6939,7 +6931,7 @@
       "profile": "https://lichess.org/@/agente_sur"
     },
     {
-      "rank": 868,
+      "rank": 867,
       "username": "bochobhom",
       "games": 605,
       "rating": 2253,
@@ -6947,7 +6939,7 @@
       "profile": "https://lichess.org/@/bochobhom"
     },
     {
-      "rank": 869,
+      "rank": 868,
       "username": "finn_thompson",
       "games": 605,
       "rating": 2094,
@@ -6955,7 +6947,7 @@
       "profile": "https://lichess.org/@/finn_thompson"
     },
     {
-      "rank": 870,
+      "rank": 869,
       "username": "lemine",
       "games": 605,
       "rating": 2043,
@@ -6963,7 +6955,7 @@
       "profile": "https://lichess.org/@/lemine"
     },
     {
-      "rank": 871,
+      "rank": 870,
       "username": "murtadlo",
       "games": 605,
       "rating": 1766,
@@ -6971,7 +6963,7 @@
       "profile": "https://lichess.org/@/murtadlo"
     },
     {
-      "rank": 872,
+      "rank": 871,
       "username": "olowopelvy",
       "games": 605,
       "rating": 2124,
@@ -6979,7 +6971,7 @@
       "profile": "https://lichess.org/@/olowopelvy"
     },
     {
-      "rank": 873,
+      "rank": 872,
       "username": "rubyris",
       "games": 605,
       "rating": 2593,
@@ -6987,7 +6979,7 @@
       "profile": "https://lichess.org/@/rubyris"
     },
     {
-      "rank": 874,
+      "rank": 873,
       "username": "fafa55",
       "games": 604,
       "rating": 1301,
@@ -6995,7 +6987,7 @@
       "profile": "https://lichess.org/@/fafa55"
     },
     {
-      "rank": 875,
+      "rank": 874,
       "username": "ilcapodelsur",
       "games": 604,
       "rating": 2089,
@@ -7003,7 +6995,7 @@
       "profile": "https://lichess.org/@/ilcapodelsur"
     },
     {
-      "rank": 876,
+      "rank": 875,
       "username": "kratos82",
       "games": 604,
       "rating": 1748,
@@ -7011,7 +7003,7 @@
       "profile": "https://lichess.org/@/kratos82"
     },
     {
-      "rank": 877,
+      "rank": 876,
       "username": "sappphiere22",
       "games": 604,
       "rating": 1854,
@@ -7019,12 +7011,20 @@
       "profile": "https://lichess.org/@/sappphiere22"
     },
     {
-      "rank": 878,
+      "rank": 877,
       "username": "sattuprasht",
       "games": 604,
       "rating": 2052,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/sattuprasht"
+    },
+    {
+      "rank": 878,
+      "username": "siliwangi-mcs",
+      "games": 604,
+      "rating": 2049,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/siliwangi-mcs"
     },
     {
       "rank": 879,
@@ -7988,19 +7988,19 @@
     },
     {
       "rank": 999,
+      "username": "tarigan_slow",
+      "games": 578,
+      "rating": 2188,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/tarigan_slow"
+    },
+    {
+      "rank": 1000,
       "username": "chilekwaii",
       "games": 577,
       "rating": 2349,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/chilekwaii"
-    },
-    {
-      "rank": 1000,
-      "username": "hiscaru_nkmura",
-      "games": 577,
-      "rating": 2223,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/hiscaru_nkmura"
     }
   ]
 }
