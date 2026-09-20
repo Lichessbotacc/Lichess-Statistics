@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:40:10.954950+00:00",
+  "updated_at": "2026-09-20T18:45:19.459563+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -644,14 +644,6 @@
     },
     {
       "rank": 81,
-      "username": "paquetovic",
-      "games": 1184,
-      "rating": 1967,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/paquetovic"
-    },
-    {
-      "rank": 82,
       "username": "lince23",
       "games": 1182,
       "rating": 1297,
@@ -659,12 +651,20 @@
       "profile": "https://lichess.org/@/lince23"
     },
     {
-      "rank": 83,
+      "rank": 82,
       "username": "affections",
       "games": 1179,
       "rating": 1876,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/affections"
+    },
+    {
+      "rank": 83,
+      "username": "paquetovic",
+      "games": 1178,
+      "rating": 1967,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/paquetovic"
     },
     {
       "rank": 84,
