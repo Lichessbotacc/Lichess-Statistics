@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:39:52.495363+00:00",
+  "updated_at": "2026-09-20T17:45:17.160623+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -932,19 +932,19 @@
     },
     {
       "rank": 117,
+      "username": "titokationi",
+      "games": 550,
+      "rating": 1642,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/titokationi"
+    },
+    {
+      "rank": 118,
       "username": "pasebri",
       "games": 547,
       "rating": 2090,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/pasebri"
-    },
-    {
-      "rank": 118,
-      "username": "titokationi",
-      "games": 542,
-      "rating": 1642,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/titokationi"
     },
     {
       "rank": 119,
@@ -1156,14 +1156,6 @@
     },
     {
       "rank": 145,
-      "username": "compensatuazionario",
-      "games": 491,
-      "rating": 1908,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/compensatuazionario"
-    },
-    {
-      "rank": 146,
       "username": "rainerzufal",
       "games": 490,
       "rating": 2015,
@@ -1171,7 +1163,7 @@
       "profile": "https://lichess.org/@/rainerzufal"
     },
     {
-      "rank": 147,
+      "rank": 146,
       "username": "demoontop",
       "games": 489,
       "rating": 2041,
@@ -1179,7 +1171,7 @@
       "profile": "https://lichess.org/@/demoontop"
     },
     {
-      "rank": 148,
+      "rank": 147,
       "username": "chess123proking12345",
       "games": 486,
       "rating": 2074,
@@ -1187,7 +1179,7 @@
       "profile": "https://lichess.org/@/chess123proking12345"
     },
     {
-      "rank": 149,
+      "rank": 148,
       "username": "gafferz",
       "games": 486,
       "rating": 1662,
@@ -1195,7 +1187,7 @@
       "profile": "https://lichess.org/@/gafferz"
     },
     {
-      "rank": 150,
+      "rank": 149,
       "username": "cenotafio",
       "games": 482,
       "rating": 1704,
@@ -1203,12 +1195,20 @@
       "profile": "https://lichess.org/@/cenotafio"
     },
     {
-      "rank": 151,
+      "rank": 150,
       "username": "madrasmario",
       "games": 481,
       "rating": 1956,
       "source": "Turnier",
       "profile": "https://lichess.org/@/madrasmario"
+    },
+    {
+      "rank": 151,
+      "username": "compensatuazionario",
+      "games": 480,
+      "rating": 1908,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/compensatuazionario"
     },
     {
       "rank": 152,
