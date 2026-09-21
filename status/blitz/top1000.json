@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:07:16.854222+00:00",
+  "updated_at": "2026-09-21T05:13:03.764235+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -628,14 +628,6 @@
     },
     {
       "rank": 79,
-      "username": "idelb777",
-      "games": 637,
-      "rating": 2006,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/idelb777"
-    },
-    {
-      "rank": 80,
       "username": "jaranoren_pman",
       "games": 636,
       "rating": 1983,
@@ -643,12 +635,20 @@
       "profile": "https://lichess.org/@/jaranoren_pman"
     },
     {
-      "rank": 81,
+      "rank": 80,
       "username": "clown25",
       "games": 635,
       "rating": 1790,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/clown25"
+    },
+    {
+      "rank": 81,
+      "username": "idelb777",
+      "games": 630,
+      "rating": 2006,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/idelb777"
     },
     {
       "rank": 82,
