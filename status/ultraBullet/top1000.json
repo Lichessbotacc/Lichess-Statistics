@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:35:33.619764+00:00",
+  "updated_at": "2026-09-21T15:41:08.656531+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "rank": 8,
+      "username": "schachgenie",
+      "games": 1475,
+      "rating": 1830,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/schachgenie"
+    },
+    {
+      "rank": 9,
       "username": "cristianoronaldo_111",
       "games": 1349,
       "rating": 2075,
@@ -67,20 +75,12 @@
       "profile": "https://lichess.org/@/cristianoronaldo_111"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "username": "lichinut",
       "games": 1270,
       "rating": 1759,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/lichinut"
-    },
-    {
-      "rank": 10,
-      "username": "schachgenie",
-      "games": 1260,
-      "rating": 1830,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/schachgenie"
     },
     {
       "rank": 11,
