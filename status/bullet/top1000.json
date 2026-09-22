@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:48:39.667794+00:00",
+  "updated_at": "2026-09-22T16:54:47.605019+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -2508,6 +2508,14 @@
     },
     {
       "rank": 314,
+      "username": "chesskurdi",
+      "games": 846,
+      "rating": 1860,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/chesskurdi"
+    },
+    {
+      "rank": 315,
       "username": "desperado664664",
       "games": 846,
       "rating": 2029,
@@ -2515,7 +2523,7 @@
       "profile": "https://lichess.org/@/desperado664664"
     },
     {
-      "rank": 315,
+      "rank": 316,
       "username": "dilya_m",
       "games": 846,
       "rating": 1335,
@@ -2523,20 +2531,12 @@
       "profile": "https://lichess.org/@/dilya_m"
     },
     {
-      "rank": 316,
+      "rank": 317,
       "username": "gonzomonkey",
       "games": 846,
       "rating": 1825,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/gonzomonkey"
-    },
-    {
-      "rank": 317,
-      "username": "chesskurdi",
-      "games": 846,
-      "rating": 1860,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/chesskurdi"
     },
     {
       "rank": 318,
@@ -3708,19 +3708,19 @@
     },
     {
       "rank": 464,
-      "username": "rajchenberg",
-      "games": 745,
-      "rating": 1991,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/rajchenberg"
-    },
-    {
-      "rank": 465,
       "username": "captainhank83",
       "games": 745,
       "rating": 1936,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/captainhank83"
+    },
+    {
+      "rank": 465,
+      "username": "rajchenberg",
+      "games": 745,
+      "rating": 1991,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/rajchenberg"
     },
     {
       "rank": 466,
