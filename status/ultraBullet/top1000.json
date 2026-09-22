@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T05:09:32.651862+00:00",
+  "updated_at": "2026-09-22T05:14:47.693308+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -292,6 +292,14 @@
     },
     {
       "rank": 37,
+      "username": "themastermind_007",
+      "games": 820,
+      "rating": 1903,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/themastermind_007"
+    },
+    {
+      "rank": 38,
       "username": "raadinnoori",
       "games": 817,
       "rating": 1797,
@@ -299,7 +307,7 @@
       "profile": "https://lichess.org/@/raadinnoori"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "username": "ricardomoreiro",
       "games": 816,
       "rating": 1804,
@@ -307,7 +315,7 @@
       "profile": "https://lichess.org/@/ricardomoreiro"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "username": "gmud",
       "games": 815,
       "rating": 1570,
@@ -315,7 +323,7 @@
       "profile": "https://lichess.org/@/gmud"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "username": "thelittlesparkie1",
       "games": 814,
       "rating": 2096,
@@ -323,7 +331,7 @@
       "profile": "https://lichess.org/@/thelittlesparkie1"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "username": "goatinhisownvenue",
       "games": 809,
       "rating": 2288,
@@ -331,7 +339,7 @@
       "profile": "https://lichess.org/@/goatinhisownvenue"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "username": "premote",
       "games": 793,
       "rating": 1748,
@@ -339,7 +347,7 @@
       "profile": "https://lichess.org/@/premote"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "username": "mataberk",
       "games": 788,
       "rating": 2024,
@@ -347,7 +355,7 @@
       "profile": "https://lichess.org/@/mataberk"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "username": "armmorphy41",
       "games": 785,
       "rating": 1719,
@@ -355,7 +363,7 @@
       "profile": "https://lichess.org/@/armmorphy41"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "username": "iiimanvirsinghiii",
       "games": 783,
       "rating": 2045,
@@ -363,7 +371,7 @@
       "profile": "https://lichess.org/@/iiimanvirsinghiii"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "username": "harsith1507",
       "games": 782,
       "rating": 2067,
@@ -371,7 +379,7 @@
       "profile": "https://lichess.org/@/harsith1507"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "username": "marwan94",
       "games": 779,
       "rating": 1656,
@@ -379,7 +387,7 @@
       "profile": "https://lichess.org/@/marwan94"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "username": "bloodshot77",
       "games": 774,
       "rating": 2250,
@@ -387,7 +395,7 @@
       "profile": "https://lichess.org/@/bloodshot77"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "username": "flapajack",
       "games": 774,
       "rating": 1918,
@@ -395,20 +403,12 @@
       "profile": "https://lichess.org/@/flapajack"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "username": "randomawareness",
       "games": 769,
       "rating": 1749,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/randomawareness"
-    },
-    {
-      "rank": 51,
-      "username": "themastermind_007",
-      "games": 768,
-      "rating": 1903,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/themastermind_007"
     },
     {
       "rank": 52,
@@ -1188,14 +1188,6 @@
     },
     {
       "rank": 149,
-      "username": "voffk",
-      "games": 492,
-      "rating": 1922,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/voffk"
-    },
-    {
-      "rank": 150,
       "username": "csaban",
       "games": 490,
       "rating": 1875,
@@ -1203,7 +1195,7 @@
       "profile": "https://lichess.org/@/csaban"
     },
     {
-      "rank": 151,
+      "rank": 150,
       "username": "nuraliii",
       "games": 490,
       "rating": 2202,
@@ -1211,7 +1203,7 @@
       "profile": "https://lichess.org/@/nuraliii"
     },
     {
-      "rank": 152,
+      "rank": 151,
       "username": "pouria7697",
       "games": 490,
       "rating": 1962,
@@ -1219,12 +1211,20 @@
       "profile": "https://lichess.org/@/pouria7697"
     },
     {
-      "rank": 153,
+      "rank": 152,
       "username": "mcqueenkin",
       "games": 484,
       "rating": 1723,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mcqueenkin"
+    },
+    {
+      "rank": 153,
+      "username": "voffk",
+      "games": 484,
+      "rating": 1922,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/voffk"
     },
     {
       "rank": 154,
