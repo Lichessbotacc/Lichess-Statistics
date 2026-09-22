@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T05:46:08.348383+00:00",
+  "updated_at": "2026-09-22T05:51:11.526042+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -21,7 +21,7 @@
     {
       "rank": 3,
       "username": "albin8340",
-      "games": 259,
+      "games": 251,
       "rating": 1483,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/albin8340"
@@ -1036,14 +1036,6 @@
     },
     {
       "rank": 130,
-      "username": "willycinq",
-      "games": 87,
-      "rating": 1217,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/willycinq"
-    },
-    {
-      "rank": 131,
       "username": "slammer87",
       "games": 86,
       "rating": 1515,
@@ -1051,12 +1043,20 @@
       "profile": "https://lichess.org/@/slammer87"
     },
     {
-      "rank": 132,
+      "rank": 131,
       "username": "varazi",
       "games": 86,
       "rating": 1535,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/varazi"
+    },
+    {
+      "rank": 132,
+      "username": "willycinq",
+      "games": 86,
+      "rating": 1217,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/willycinq"
     },
     {
       "rank": 133,
