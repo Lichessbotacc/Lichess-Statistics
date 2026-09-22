@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:28:03.373474+00:00",
+  "updated_at": "2026-09-22T14:33:09.433110+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "rank": 8,
+      "username": "vitalov",
+      "games": 1020,
+      "rating": 1548,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/vitalov"
+    },
+    {
+      "rank": 9,
       "username": "igp_sasambo",
       "games": 990,
       "rating": 1890,
@@ -67,20 +75,12 @@
       "profile": "https://lichess.org/@/igp_sasambo"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "username": "umarswadiq96",
       "games": 987,
       "rating": 1779,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/umarswadiq96"
-    },
-    {
-      "rank": 10,
-      "username": "vitalov",
-      "games": 979,
-      "rating": 1548,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/vitalov"
     },
     {
       "rank": 11,
