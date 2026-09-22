@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T03:01:07.828800+00:00",
+  "updated_at": "2026-09-22T03:07:57.373153+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -812,6 +812,14 @@
     },
     {
       "rank": 102,
+      "username": "mrezai",
+      "games": 596,
+      "rating": 1485,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/mrezai"
+    },
+    {
+      "rank": 103,
       "username": "small_island_nation",
       "games": 596,
       "rating": 1773,
@@ -819,7 +827,7 @@
       "profile": "https://lichess.org/@/small_island_nation"
     },
     {
-      "rank": 103,
+      "rank": 104,
       "username": "emptymoon",
       "games": 595,
       "rating": 1778,
@@ -827,7 +835,7 @@
       "profile": "https://lichess.org/@/emptymoon"
     },
     {
-      "rank": 104,
+      "rank": 105,
       "username": "elbasmgy",
       "games": 594,
       "rating": 1800,
@@ -835,7 +843,7 @@
       "profile": "https://lichess.org/@/elbasmgy"
     },
     {
-      "rank": 105,
+      "rank": 106,
       "username": "rafaelo22",
       "games": 593,
       "rating": 1898,
@@ -843,7 +851,7 @@
       "profile": "https://lichess.org/@/rafaelo22"
     },
     {
-      "rank": 106,
+      "rank": 107,
       "username": "hihellohey",
       "games": 592,
       "rating": 1764,
@@ -851,7 +859,7 @@
       "profile": "https://lichess.org/@/hihellohey"
     },
     {
-      "rank": 107,
+      "rank": 108,
       "username": "alessxndro",
       "games": 590,
       "rating": 1966,
@@ -859,7 +867,7 @@
       "profile": "https://lichess.org/@/alessxndro"
     },
     {
-      "rank": 108,
+      "rank": 109,
       "username": "kantluka",
       "games": 589,
       "rating": 1704,
@@ -867,7 +875,7 @@
       "profile": "https://lichess.org/@/kantluka"
     },
     {
-      "rank": 109,
+      "rank": 110,
       "username": "alphajet26",
       "games": 588,
       "rating": 1871,
@@ -875,7 +883,7 @@
       "profile": "https://lichess.org/@/alphajet26"
     },
     {
-      "rank": 110,
+      "rank": 111,
       "username": "unquoted",
       "games": 587,
       "rating": 1588,
@@ -883,7 +891,7 @@
       "profile": "https://lichess.org/@/unquoted"
     },
     {
-      "rank": 111,
+      "rank": 112,
       "username": "thephenomenon90",
       "games": 585,
       "rating": 1825,
@@ -891,7 +899,7 @@
       "profile": "https://lichess.org/@/thephenomenon90"
     },
     {
-      "rank": 112,
+      "rank": 113,
       "username": "ajaymb_18",
       "games": 580,
       "rating": 1790,
@@ -899,7 +907,7 @@
       "profile": "https://lichess.org/@/ajaymb_18"
     },
     {
-      "rank": 113,
+      "rank": 114,
       "username": "bullinks",
       "games": 580,
       "rating": 1477,
@@ -907,7 +915,7 @@
       "profile": "https://lichess.org/@/bullinks"
     },
     {
-      "rank": 114,
+      "rank": 115,
       "username": "dioxis10",
       "games": 579,
       "rating": 1741,
@@ -915,7 +923,7 @@
       "profile": "https://lichess.org/@/dioxis10"
     },
     {
-      "rank": 115,
+      "rank": 116,
       "username": "zanycolourfulwindow",
       "games": 576,
       "rating": 2600,
@@ -923,7 +931,7 @@
       "profile": "https://lichess.org/@/zanycolourfulwindow"
     },
     {
-      "rank": 116,
+      "rank": 117,
       "username": "silentwysteriya",
       "games": 574,
       "rating": 2610,
@@ -931,20 +939,12 @@
       "profile": "https://lichess.org/@/silentwysteriya"
     },
     {
-      "rank": 117,
+      "rank": 118,
       "username": "n0s3-bl33d3r",
       "games": 571,
       "rating": 2001,
       "source": "Turnier",
       "profile": "https://lichess.org/@/n0s3-bl33d3r"
-    },
-    {
-      "rank": 118,
-      "username": "mrezai",
-      "games": 570,
-      "rating": 1485,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/mrezai"
     },
     {
       "rank": 119,
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "juani30",
+      "games": 103,
+      "rating": 1288,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/juani30"
+    },
+    {
+      "rank": 999,
       "username": "so_amazing",
       "games": 103,
       "rating": 2031,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/so_amazing"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "tactyx",
       "games": 103,
       "rating": 1433,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/tactyx"
-    },
-    {
-      "rank": 1000,
-      "username": "ghost_ak09",
-      "games": 102,
-      "rating": 1452,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/ghost_ak09"
     }
   ]
 }
