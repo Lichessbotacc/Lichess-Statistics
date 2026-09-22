@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T03:32:27.185068+00:00",
+  "updated_at": "2026-09-22T04:19:14.869425+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1788,6 +1788,14 @@
     },
     {
       "rank": 224,
+      "username": "crischessita",
+      "games": 278,
+      "rating": 1584,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/crischessita"
+    },
+    {
+      "rank": 225,
       "username": "mirmihail",
       "games": 278,
       "rating": 1772,
@@ -1795,7 +1803,7 @@
       "profile": "https://lichess.org/@/mirmihail"
     },
     {
-      "rank": 225,
+      "rank": 226,
       "username": "reda2027",
       "games": 278,
       "rating": 941,
@@ -1803,20 +1811,12 @@
       "profile": "https://lichess.org/@/reda2027"
     },
     {
-      "rank": 226,
+      "rank": 227,
       "username": "smarlny",
       "games": 278,
       "rating": 1884,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/smarlny"
-    },
-    {
-      "rank": 227,
-      "username": "crischessita",
-      "games": 278,
-      "rating": 1584,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/crischessita"
     },
     {
       "rank": 228,
@@ -2524,6 +2524,14 @@
     },
     {
       "rank": 316,
+      "username": "dreadesina",
+      "games": 259,
+      "rating": 1681,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/dreadesina"
+    },
+    {
+      "rank": 317,
       "username": "ilijagromovnik",
       "games": 259,
       "rating": 1530,
@@ -2531,7 +2539,7 @@
       "profile": "https://lichess.org/@/ilijagromovnik"
     },
     {
-      "rank": 317,
+      "rank": 318,
       "username": "kv_vu",
       "games": 259,
       "rating": 1444,
@@ -2539,20 +2547,12 @@
       "profile": "https://lichess.org/@/kv_vu"
     },
     {
-      "rank": 318,
+      "rank": 319,
       "username": "kwessy",
       "games": 259,
       "rating": 1564,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kwessy"
-    },
-    {
-      "rank": 319,
-      "username": "dreadesina",
-      "games": 259,
-      "rating": 1681,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/dreadesina"
     },
     {
       "rank": 320,
@@ -4596,19 +4596,19 @@
     },
     {
       "rank": 575,
-      "username": "zero747",
-      "games": 226,
-      "rating": 1418,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/zero747"
-    },
-    {
-      "rank": 576,
       "username": "wahyu226",
       "games": 226,
       "rating": 1537,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/wahyu226"
+    },
+    {
+      "rank": 576,
+      "username": "zero747",
+      "games": 226,
+      "rating": 1418,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/zero747"
     },
     {
       "rank": 577,
