@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:05:23.776524+00:00",
+  "updated_at": "2026-09-23T02:10:46.259167+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7972,6 +7972,14 @@
     },
     {
       "rank": 997,
+      "username": "unwiseandconfused",
+      "games": 196,
+      "rating": 883,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/unwiseandconfused"
+    },
+    {
+      "rank": 998,
       "username": "aaarappp",
       "games": 195,
       "rating": 1256,
@@ -7979,7 +7987,7 @@
       "profile": "https://lichess.org/@/aaarappp"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "username": "ahmederhan",
       "games": 195,
       "rating": 1628,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/ahmederhan"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "boto17",
       "games": 195,
       "rating": 1688,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/boto17"
-    },
-    {
-      "rank": 1000,
-      "username": "bunny_the_butcher",
-      "games": 195,
-      "rating": 1765,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/bunny_the_butcher"
     }
   ]
 }
