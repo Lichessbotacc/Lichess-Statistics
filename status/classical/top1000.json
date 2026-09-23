@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:36:51.775196+00:00",
+  "updated_at": "2026-09-23T11:41:54.736879+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1588,14 +1588,6 @@
     },
     {
       "rank": 199,
-      "username": "missionking_chess",
-      "games": 75,
-      "rating": 1245,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/missionking_chess"
-    },
-    {
-      "rank": 200,
       "username": "gk0102",
       "games": 74,
       "rating": 1337,
@@ -1603,7 +1595,7 @@
       "profile": "https://lichess.org/@/gk0102"
     },
     {
-      "rank": 201,
+      "rank": 200,
       "username": "jakethesnake01",
       "games": 74,
       "rating": 1581,
@@ -1611,12 +1603,20 @@
       "profile": "https://lichess.org/@/jakethesnake01"
     },
     {
-      "rank": 202,
+      "rank": 201,
       "username": "kingofmypawns",
       "games": 74,
       "rating": 1398,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/kingofmypawns"
+    },
+    {
+      "rank": 202,
+      "username": "missionking_chess",
+      "games": 74,
+      "rating": 1245,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/missionking_chess"
     },
     {
       "rank": 203,
