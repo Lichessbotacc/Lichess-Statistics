@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T08:27:45.850421+00:00",
+  "updated_at": "2026-09-23T08:33:52.805631+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -7980,6 +7980,14 @@
     },
     {
       "rank": 998,
+      "username": "alkhalilk",
+      "games": 37,
+      "rating": 966,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/alkhalilk"
+    },
+    {
+      "rank": 999,
       "username": "amin_asgari59",
       "games": 37,
       "rating": 1530,
@@ -7987,20 +7995,12 @@
       "profile": "https://lichess.org/@/amin_asgari59"
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "username": "artem_2019-dav",
       "games": 37,
       "rating": 1237,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/artem_2019-dav"
-    },
-    {
-      "rank": 1000,
-      "username": "artemsergien",
-      "games": 37,
-      "rating": 1344,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/artemsergien"
     }
   ]
 }
