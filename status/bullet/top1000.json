@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T01:35:14.757359+00:00",
+  "updated_at": "2026-09-23T01:43:35.798426+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -724,14 +724,6 @@
     },
     {
       "rank": 91,
-      "username": "affections",
-      "games": 1157,
-      "rating": 1876,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/affections"
-    },
-    {
-      "rank": 92,
       "username": "decidement",
       "games": 1153,
       "rating": 2338,
@@ -739,7 +731,7 @@
       "profile": "https://lichess.org/@/decidement"
     },
     {
-      "rank": 93,
+      "rank": 92,
       "username": "patacee",
       "games": 1152,
       "rating": 2359,
@@ -747,7 +739,7 @@
       "profile": "https://lichess.org/@/patacee"
     },
     {
-      "rank": 94,
+      "rank": 93,
       "username": "sdauren",
       "games": 1151,
       "rating": 2014,
@@ -755,12 +747,20 @@
       "profile": "https://lichess.org/@/sdauren"
     },
     {
-      "rank": 95,
+      "rank": 94,
       "username": "weaky_player",
       "games": 1151,
       "rating": 2495,
       "source": "Turnier",
       "profile": "https://lichess.org/@/weaky_player"
+    },
+    {
+      "rank": 95,
+      "username": "affections",
+      "games": 1148,
+      "rating": 1876,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/affections"
     },
     {
       "rank": 96,
