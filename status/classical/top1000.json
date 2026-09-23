@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:04:53.127661+00:00",
+  "updated_at": "2026-09-23T16:10:56.182052+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -276,14 +276,6 @@
     },
     {
       "rank": 35,
-      "username": "vigvam",
-      "games": 128,
-      "rating": 1784,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/vigvam"
-    },
-    {
-      "rank": 36,
       "username": "lordsalva",
       "games": 127,
       "rating": 1478,
@@ -291,12 +283,20 @@
       "profile": "https://lichess.org/@/lordsalva"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "username": "pavel_britva",
       "games": 127,
       "rating": 1494,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/pavel_britva"
+    },
+    {
+      "rank": 37,
+      "username": "vigvam",
+      "games": 127,
+      "rating": 1784,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/vigvam"
     },
     {
       "rank": 38,
