@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:38:01.055641+00:00",
+  "updated_at": "2026-09-24T09:45:48.153944+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -1860,14 +1860,6 @@
     },
     {
       "rank": 233,
-      "username": "gotomat",
-      "games": 926,
-      "rating": 1871,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/gotomat"
-    },
-    {
-      "rank": 234,
       "username": "hitherandthither",
       "games": 926,
       "rating": 1881,
@@ -1875,12 +1867,20 @@
       "profile": "https://lichess.org/@/hitherandthither"
     },
     {
-      "rank": 235,
+      "rank": 234,
       "username": "masina89",
       "games": 925,
       "rating": 2585,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/masina89"
+    },
+    {
+      "rank": 235,
+      "username": "gotomat",
+      "games": 923,
+      "rating": 1871,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/gotomat"
     },
     {
       "rank": 236,
