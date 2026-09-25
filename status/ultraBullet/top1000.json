@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T14:30:50.733218+00:00",
+  "updated_at": "2026-09-25T14:36:12.925475+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -124,19 +124,19 @@
     },
     {
       "rank": 16,
-      "username": "fantom2234",
-      "games": 1018,
-      "rating": 2106,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/fantom2234"
-    },
-    {
-      "rank": 17,
       "username": "daswarderwind",
       "games": 996,
       "rating": 1890,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/daswarderwind"
+    },
+    {
+      "rank": 17,
+      "username": "fantom2234",
+      "games": 996,
+      "rating": 2106,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/fantom2234"
     },
     {
       "rank": 18,
@@ -3972,14 +3972,6 @@
     },
     {
       "rank": 497,
-      "username": "despairing",
-      "games": 202,
-      "rating": 2076,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/despairing"
-    },
-    {
-      "rank": 498,
       "username": "kphanminh662",
       "games": 202,
       "rating": 1838,
@@ -3987,12 +3979,20 @@
       "profile": "https://lichess.org/@/kphanminh662"
     },
     {
-      "rank": 499,
+      "rank": 498,
       "username": "mithransid2016",
       "games": 202,
       "rating": 1460,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mithransid2016"
+    },
+    {
+      "rank": 499,
+      "username": "despairing",
+      "games": 201,
+      "rating": 2076,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/despairing"
     },
     {
       "rank": 500,
