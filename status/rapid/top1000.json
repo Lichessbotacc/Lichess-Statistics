@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T14:48:10.954106+00:00",
+  "updated_at": "2026-09-26T14:53:11.331335+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -36,6 +36,14 @@
     },
     {
       "rank": 5,
+      "username": "peterbull",
+      "games": 582,
+      "rating": 1547,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/peterbull"
+    },
+    {
+      "rank": 6,
       "username": "passerby31",
       "games": 571,
       "rating": 1657,
@@ -43,20 +51,12 @@
       "profile": "https://lichess.org/@/passerby31"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "username": "asmahmoukades",
       "games": 538,
       "rating": 1975,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/asmahmoukades"
-    },
-    {
-      "rank": 7,
-      "username": "peterbull",
-      "games": 513,
-      "rating": 1547,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/peterbull"
     },
     {
       "rank": 8,
