@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:11:09.636018+00:00",
+  "updated_at": "2026-09-26T15:17:01.834073+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "rank": 7,
+      "username": "gul",
+      "games": 209,
+      "rating": 1480,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/gul"
+    },
+    {
+      "rank": 8,
       "username": "knightlyknave",
       "games": 199,
       "rating": 1795,
@@ -59,7 +67,7 @@
       "profile": "https://lichess.org/@/knightlyknave"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "username": "omulb1",
       "games": 191,
       "rating": 1512,
@@ -67,20 +75,12 @@
       "profile": "https://lichess.org/@/omulb1"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "username": "zaby75",
       "games": 187,
       "rating": 1306,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/zaby75"
-    },
-    {
-      "rank": 10,
-      "username": "gul",
-      "games": 185,
-      "rating": 1480,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/gul"
     },
     {
       "rank": 11,
