@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:41:37.678721+00:00",
+  "updated_at": "2026-09-26T17:49:23.238137+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -116,14 +116,6 @@
     },
     {
       "rank": 15,
-      "username": "vertel",
-      "games": 1039,
-      "rating": 1995,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/vertel"
-    },
-    {
-      "rank": 16,
       "username": "dmitrj19",
       "games": 1027,
       "rating": 1762,
@@ -131,7 +123,7 @@
       "profile": "https://lichess.org/@/dmitrj19"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "username": "aljopeljhan",
       "games": 1018,
       "rating": 2250,
@@ -139,7 +131,7 @@
       "profile": "https://lichess.org/@/aljopeljhan"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "username": "fantom2234",
       "games": 996,
       "rating": 2106,
@@ -147,7 +139,7 @@
       "profile": "https://lichess.org/@/fantom2234"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "username": "lichinut",
       "games": 989,
       "rating": 1759,
@@ -155,7 +147,7 @@
       "profile": "https://lichess.org/@/lichinut"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "username": "schachgenie",
       "games": 983,
       "rating": 1830,
@@ -163,7 +155,7 @@
       "profile": "https://lichess.org/@/schachgenie"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "username": "paulnelusah",
       "games": 954,
       "rating": 1689,
@@ -171,12 +163,20 @@
       "profile": "https://lichess.org/@/paulnelusah"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "username": "nickmain",
       "games": 941,
       "rating": 2236,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/nickmain"
+    },
+    {
+      "rank": 22,
+      "username": "vertel",
+      "games": 937,
+      "rating": 1995,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/vertel"
     },
     {
       "rank": 23,
