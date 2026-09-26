@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:32:40.400395+00:00",
+  "updated_at": "2026-09-26T15:38:03.777956+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -116,6 +116,14 @@
     },
     {
       "rank": 15,
+      "username": "mimis13",
+      "games": 158,
+      "rating": 1665,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/mimis13"
+    },
+    {
+      "rank": 16,
       "username": "ranteschile",
       "games": 156,
       "rating": 1370,
@@ -123,7 +131,7 @@
       "profile": "https://lichess.org/@/ranteschile"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "username": "reddyvea",
       "games": 155,
       "rating": 1324,
@@ -131,7 +139,7 @@
       "profile": "https://lichess.org/@/reddyvea"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "username": "the_naked_king",
       "games": 153,
       "rating": 1764,
@@ -139,7 +147,7 @@
       "profile": "https://lichess.org/@/the_naked_king"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "username": "magdy_omar",
       "games": 152,
       "rating": 1171,
@@ -147,7 +155,7 @@
       "profile": "https://lichess.org/@/magdy_omar"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "username": "wb52",
       "games": 149,
       "rating": 1701,
@@ -155,7 +163,7 @@
       "profile": "https://lichess.org/@/wb52"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "username": "chess07081966bl",
       "games": 146,
       "rating": 1413,
@@ -163,7 +171,7 @@
       "profile": "https://lichess.org/@/chess07081966bl"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "username": "nikolayzoro",
       "games": 146,
       "rating": 1846,
@@ -171,7 +179,7 @@
       "profile": "https://lichess.org/@/nikolayzoro"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "username": "rom3529",
       "games": 145,
       "rating": 1413,
@@ -179,7 +187,7 @@
       "profile": "https://lichess.org/@/rom3529"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "username": "dinu1997",
       "games": 141,
       "rating": 1413,
@@ -187,7 +195,7 @@
       "profile": "https://lichess.org/@/dinu1997"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "username": "dingo212121",
       "games": 140,
       "rating": 1684,
@@ -195,20 +203,12 @@
       "profile": "https://lichess.org/@/dingo212121"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "username": "isidorobayud",
       "games": 140,
       "rating": 1648,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/isidorobayud"
-    },
-    {
-      "rank": 26,
-      "username": "mimis13",
-      "games": 140,
-      "rating": 1665,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/mimis13"
     },
     {
       "rank": 27,
@@ -468,14 +468,6 @@
     },
     {
       "rank": 59,
-      "username": "slammer87",
-      "games": 114,
-      "rating": 1515,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/slammer87"
-    },
-    {
-      "rank": 60,
       "username": "josephk1975",
       "games": 113,
       "rating": 1562,
@@ -483,7 +475,7 @@
       "profile": "https://lichess.org/@/josephk1975"
     },
     {
-      "rank": 61,
+      "rank": 60,
       "username": "vsuslov",
       "games": 112,
       "rating": 1770,
@@ -491,7 +483,7 @@
       "profile": "https://lichess.org/@/vsuslov"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "username": "sanityassassin",
       "games": 111,
       "rating": 1896,
@@ -499,7 +491,7 @@
       "profile": "https://lichess.org/@/sanityassassin"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "caissask",
       "games": 109,
       "rating": 985,
@@ -507,7 +499,7 @@
       "profile": "https://lichess.org/@/caissask"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "username": "charlesking50",
       "games": 109,
       "rating": 1674,
@@ -515,12 +507,20 @@
       "profile": "https://lichess.org/@/charlesking50"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "username": "mg-connection",
       "games": 109,
       "rating": 1285,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/mg-connection"
+    },
+    {
+      "rank": 65,
+      "username": "slammer87",
+      "games": 109,
+      "rating": 1515,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/slammer87"
     },
     {
       "rank": 66,
