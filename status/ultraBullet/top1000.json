@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T04:47:26.064628+00:00",
+  "updated_at": "2026-09-27T04:53:10.571946+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -356,6 +356,14 @@
     },
     {
       "rank": 45,
+      "username": "anemoschess",
+      "games": 744,
+      "rating": 1350,
+      "source": "Turnier",
+      "profile": "https://lichess.org/@/anemoschess"
+    },
+    {
+      "rank": 46,
       "username": "okusa315",
       "games": 737,
       "rating": 2038,
@@ -363,7 +371,7 @@
       "profile": "https://lichess.org/@/okusa315"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "username": "andipeak",
       "games": 735,
       "rating": 2356,
@@ -371,7 +379,7 @@
       "profile": "https://lichess.org/@/andipeak"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "username": "mache80",
       "games": 733,
       "rating": 1362,
@@ -379,7 +387,7 @@
       "profile": "https://lichess.org/@/mache80"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "username": "kurtsihchess2014",
       "games": 732,
       "rating": 2284,
@@ -387,7 +395,7 @@
       "profile": "https://lichess.org/@/kurtsihchess2014"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "username": "thelittlesparkie1",
       "games": 718,
       "rating": 2096,
@@ -395,7 +403,7 @@
       "profile": "https://lichess.org/@/thelittlesparkie1"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "username": "randomawareness",
       "games": 715,
       "rating": 1749,
@@ -403,7 +411,7 @@
       "profile": "https://lichess.org/@/randomawareness"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "username": "timobjornson",
       "games": 707,
       "rating": 1830,
@@ -411,7 +419,7 @@
       "profile": "https://lichess.org/@/timobjornson"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "username": "zvcked",
       "games": 705,
       "rating": 1835,
@@ -419,7 +427,7 @@
       "profile": "https://lichess.org/@/zvcked"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "username": "fallen53",
       "games": 686,
       "rating": 1878,
@@ -427,7 +435,7 @@
       "profile": "https://lichess.org/@/fallen53"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "username": "maniacalzerker",
       "games": 681,
       "rating": 2714,
@@ -435,7 +443,7 @@
       "profile": "https://lichess.org/@/maniacalzerker"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "username": "bbisplaying",
       "games": 678,
       "rating": 2101,
@@ -443,7 +451,7 @@
       "profile": "https://lichess.org/@/bbisplaying"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "username": "samkov_gleb_omg",
       "games": 676,
       "rating": 1671,
@@ -451,7 +459,7 @@
       "profile": "https://lichess.org/@/samkov_gleb_omg"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "username": "sling16",
       "games": 676,
       "rating": 1941,
@@ -459,7 +467,7 @@
       "profile": "https://lichess.org/@/sling16"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "username": "themastermind_007",
       "games": 676,
       "rating": 1903,
@@ -467,7 +475,7 @@
       "profile": "https://lichess.org/@/themastermind_007"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "username": "darkoncrack",
       "games": 670,
       "rating": 2416,
@@ -475,7 +483,7 @@
       "profile": "https://lichess.org/@/darkoncrack"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "username": "mrsst",
       "games": 666,
       "rating": 1846,
@@ -483,7 +491,7 @@
       "profile": "https://lichess.org/@/mrsst"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "username": "playerinho",
       "games": 665,
       "rating": 1908,
@@ -491,7 +499,7 @@
       "profile": "https://lichess.org/@/playerinho"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "username": "ricardomoreiro",
       "games": 664,
       "rating": 1804,
@@ -499,7 +507,7 @@
       "profile": "https://lichess.org/@/ricardomoreiro"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "username": "warlock_777",
       "games": 664,
       "rating": 1399,
@@ -507,7 +515,7 @@
       "profile": "https://lichess.org/@/warlock_777"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "username": "dj12",
       "games": 663,
       "rating": 2171,
@@ -515,20 +523,12 @@
       "profile": "https://lichess.org/@/dj12"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "username": "electro_sibnsu",
       "games": 663,
       "rating": 1430,
       "source": "Lobby-Crawl",
       "profile": "https://lichess.org/@/electro_sibnsu"
-    },
-    {
-      "rank": 66,
-      "username": "anemoschess",
-      "games": 660,
-      "rating": 1350,
-      "source": "Turnier",
-      "profile": "https://lichess.org/@/anemoschess"
     },
     {
       "rank": 67,
