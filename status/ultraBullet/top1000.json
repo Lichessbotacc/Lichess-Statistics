@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:12:44.672463+00:00",
+  "updated_at": "2026-09-27T07:17:45.027687+00:00",
   "since_days": 7,
   "top10": [
     {
@@ -28,14 +28,6 @@
     },
     {
       "rank": 4,
-      "username": "emptymoon",
-      "games": 1575,
-      "rating": 1778,
-      "source": "Lobby-Crawl",
-      "profile": "https://lichess.org/@/emptymoon"
-    },
-    {
-      "rank": 5,
       "username": "wilsocas2",
       "games": 1514,
       "rating": 1591,
@@ -43,12 +35,20 @@
       "profile": "https://lichess.org/@/wilsocas2"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "username": "cristianoronaldo_111",
       "games": 1390,
       "rating": 2075,
       "source": "Turnier",
       "profile": "https://lichess.org/@/cristianoronaldo_111"
+    },
+    {
+      "rank": 6,
+      "username": "emptymoon",
+      "games": 1310,
+      "rating": 1778,
+      "source": "Lobby-Crawl",
+      "profile": "https://lichess.org/@/emptymoon"
     },
     {
       "rank": 7,
